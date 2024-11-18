@@ -23,4 +23,9 @@ public class PlayerAnimtions : MonoBehaviour
         animator.SetFloat("jumpSpeed",Mathf.Abs(rb.linearVelocityY));
         animator.SetBool("isGround",physicsCheck.isGround);
     }
+
+    public void SetHurtTrigger()
+    {
+        animator.SetTrigger("isHurt");
+    }
 }
