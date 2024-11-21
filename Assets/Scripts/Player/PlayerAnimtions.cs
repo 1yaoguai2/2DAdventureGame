@@ -2,14 +2,16 @@
 
 public class PlayerAnimtions : MonoBehaviour
 {
-    private Animator animator;
-    private Rigidbody2D rb;
-    private PhysicsCheck physicsCheck;
+    private Animator _animator;
+    private Rigidbody2D _rb;
+    private PhysicsCheck _physicsCheck;
+    private PlayerController _playerController;
     private void Awake()
     {
-        animator = GetComponent<Animator>();
-        rb = GetComponent<Rigidbody2D>();
-        physicsCheck = GetComponent<PhysicsCheck>();
+        _animator = GetComponent<Animator>();
+        _rb = GetComponent<Rigidbody2D>();
+        _physicsCheck = GetComponent<PhysicsCheck>();
+        _playerController = GetComponent<PlayerController>();
     }
 
     private void FixedUpdate()
@@ -19,13 +21,21 @@ public class PlayerAnimtions : MonoBehaviour
 
     void SetAnimations()
     {
-        animator.SetFloat("speed",Mathf.Abs(rb.linearVelocityX));
-        animator.SetFloat("jumpSpeed",Mathf.Abs(rb.linearVelocityY));
-        animator.SetBool("isGround",physicsCheck.isGround);
+        _animator.SetFloat("speed",Mathf.Abs(_rb.linearVelocityX));
+        _animator.SetFloat("jumpSpeed",Mathf.Abs(_rb.linearVelocityY));
+        _animator.SetBool("isGround",_physicsCheck.isGround);
+        _animator.SetBool("isDeath",_playerController.isDeath);
+        _animator.SetBool("isAttack",_playerController.isAttack);
     }
 
     public void SetHurtTrigger()
     {
-        animator.SetTrigger("isHurt");
+        _animator.SetTrigger("isHurt");
     }
+
+    public void SetAttackTrigger()
+    {
+        _animator.SetTrigger("attack");
+    }
+    
 }

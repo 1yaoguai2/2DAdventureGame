@@ -1,68 +1,106 @@
-﻿using System;
-using UnityEngine;
+﻿using UnityEngine;
+using UnityEngine.Events;
 using UnityEngine.InputSystem;
-using UnityEngine.WSA;
 
 public class PlayerController : MonoBehaviour
 {
-    public InputSystem_Actions inputControl;
-    private Rigidbody2D rb;
-    private SpriteRenderer spriteRenderer;
-    private PhysicsCheck physicsCheck;
-    [Header("运动参数")]
-    [SerializeField] Vector2 inputDirection;
+    private InputSystem_Actions _inputControl;
+    private Rigidbody2D _rb;
+    private SpriteRenderer _spriteRenderer;
+    private PhysicsCheck _physicsCheck;
+    [Header("运动参数")] [SerializeField] Vector2 inputDirection;
     [SerializeField] float moveSpeed;
     [SerializeField] float jumpForce;
 
+    public float hurtForce;
+    public bool isHurt;
+    public bool isDeath;
+    public bool isAttack;
+
+    public UnityEvent playerAttackEvent;
     private void Awake()
     {
-        inputControl = new InputSystem_Actions();
-        inputControl.GamePlay.Jump.started += PlayerJump;
-        rb = GetComponent<Rigidbody2D>();
-        spriteRenderer = GetComponent<SpriteRenderer>();
-        physicsCheck = GetComponent<PhysicsCheck>();
-    }
+        _inputControl = new InputSystem_Actions();
+        _inputControl.GamePlay.Jump.started += PlayerJump;
+        _rb = GetComponent<Rigidbody2D>();
+        _spriteRenderer = GetComponent<SpriteRenderer>();
+        _physicsCheck = GetComponent<PhysicsCheck>();
 
-    private void Start()
-    {
-
+        //攻击
+        _inputControl.GamePlay.Attack.started += PlayerAttack;
     }
 
     private void OnEnable()
     {
-        inputControl.Enable();
+        _inputControl.Enable();
     }
 
     private void OnDisable()
     {
-        inputControl.Disable();
+        _inputControl.Disable();
     }
 
     private void Update()
     {
-        inputDirection = inputControl.GamePlay.Move.ReadValue<Vector2>();
+        inputDirection = _inputControl.GamePlay.Move.ReadValue<Vector2>();
     }
 
     private void FixedUpdate()
     {
-        PlayerMove();
+        if (!isHurt && !isAttack)
+            PlayerMove();
     }
 
     private void PlayerMove()
     {
-        rb.linearVelocityX = inputDirection.x * moveSpeed * Time.deltaTime;
+        _rb.linearVelocityX = inputDirection.x * moveSpeed * Time.deltaTime;
         //角色朝向
         if (inputDirection.x > 0)
-            spriteRenderer.flipX = false;
+            _spriteRenderer.flipX = false;
         else if (inputDirection.x < 0)
-            spriteRenderer.flipX = true;
+            _spriteRenderer.flipX = true;
     }
 
     private void PlayerJump(InputAction.CallbackContext context)
     {
         //Debug.Log("跳跃按钮");
-        if (physicsCheck.isGround)
-            rb.AddForce(transform.up * jumpForce, ForceMode2D.Impulse);
+        if (_physicsCheck.isGround)
+            _rb.AddForce(transform.up * jumpForce, ForceMode2D.Impulse);
     }
 
+    /// <summary>
+    /// 角色攻击
+    /// </summary>
+    /// <param name="obj"></param>
+    /// <exception cref="NotImplementedException"></exception>
+    private void PlayerAttack(InputAction.CallbackContext context)
+    {
+        playerAttackEvent?.Invoke();
+        isAttack = true;
+ 
+    }
+
+    #region UnityEvent -> CharacterScript
+    /// <summary>
+    /// 受伤
+    /// Character脚本事件绑定
+    /// </summary>
+    public void GetHurt(Transform attacker)
+    {
+        isHurt = true;
+        Vector2 dir = new Vector2(transform.position.x - attacker.position.x, 0).normalized;
+        _rb.AddForce(dir * hurtForce, ForceMode2D.Impulse);
+    }
+
+
+    /// <summary>
+    /// 接受死亡
+    /// </summary>
+    public void GetDeath()
+    {
+        isDeath = true;
+        _inputControl.GamePlay.Disable();
+    }
+
+    #endregion
 }

@@ -25,16 +25,19 @@ public class Character : MonoBehaviour
                 if (value < 0)
                 {
                     currentHealth = 0;
+                    OnPlayerDeathEvent?.Invoke();
                 }
                 else
                 {
                     currentHealth = value;
+                    
                 }
             }
         }
     }
 
     public UnityEvent<Transform> OnTakeDamageEvent;
+    public UnityEvent OnPlayerDeathEvent;
     
     private void Start()
     {
@@ -62,8 +65,11 @@ public class Character : MonoBehaviour
         if (isInvulnerable) return;
         //LogManager.Log(attack.damage);
         CurrentHealth -= attack.damage;
-        TriggerInvulnerable();
-        OnTakeDamageEvent?.Invoke(attack.transform);
+        if (CurrentHealth != 0)
+        {
+            TriggerInvulnerable();
+            OnTakeDamageEvent?.Invoke(attack.transform);
+        }
     }
 
     /// <summary>
