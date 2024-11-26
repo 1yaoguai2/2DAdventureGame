@@ -1,8 +1,6 @@
 using System;
 using UnityEngine;
 using UnityEngine.Events;
-using UnityEngine.Serialization;
-using UnityEngine.Video;
 
 public class Character : MonoBehaviour
 {

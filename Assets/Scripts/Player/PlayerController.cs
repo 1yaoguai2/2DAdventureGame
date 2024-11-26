@@ -68,16 +68,16 @@ public class PlayerController : MonoBehaviour
             _rb.AddForce(transform.up * jumpForce, ForceMode2D.Impulse);
     }
 
+
     /// <summary>
     /// 角色攻击
     /// </summary>
-    /// <param name="obj"></param>
-    /// <exception cref="NotImplementedException"></exception>
+    /// <param name="context"></param>
     private void PlayerAttack(InputAction.CallbackContext context)
     {
         playerAttackEvent?.Invoke();
         isAttack = true;
- 
+        _rb.linearVelocityX = 0;
     }
 
     #region UnityEvent -> CharacterScript
