@@ -120,7 +120,6 @@ GameObject:
   - component: {fileID: 465353258531839523}
   - component: {fileID: 6635348399612493086}
   - component: {fileID: 8754844216918325565}
-  - component: {fileID: 6613209546323369553}
   m_Layer: 7
   m_Name: Player
   m_TagString: Untagged
@@ -282,7 +281,7 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 1}
+  m_Offset: {x: -0.1, y: 1}
   m_Size: {x: 1.2, y: 2}
   m_Direction: 0
 --- !u!114 &5158265037437394191
@@ -331,12 +330,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e83ea5deabae13745a584741acb3118d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  isManual: 1
   checkRadius: 0.1
-  bottomDffset: {x: 0, y: 0}
+  leftOffset: {x: 0.5, y: 1}
+  rightOffset: {x: -0.7, y: 1}
+  bottomOffset: {x: -0.1, y: 0}
   groundLayer:
     serializedVersion: 2
     m_Bits: 64
   isGround: 0
+  isTouchLeftWall: 0
+  isTouchRightWall: 0
 --- !u!114 &6635348399612493086
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -408,21 +412,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
---- !u!114 &6613209546323369553
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6217752117106002896}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bf79607545541ae45b3b38bfec980ccf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  damage: 2
-  attackRange: 2
-  attackRate: 1
 --- !u!1 &7877421443134786912
 GameObject:
   m_ObjectHideFlags: 0

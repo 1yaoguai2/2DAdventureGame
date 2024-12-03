@@ -1,0 +1,50 @@
+*********************************************************************************************************start
+By CHINAMI-JBU9G23
+2024年12月3日  21:15:54
+
+操作系统:  Windows 11  (10.0.22621) 64bit
+系统内存大小:  32544
+设备模型:  MS-7D94 (Micro-Star International Co., Ltd.)
+设备唯一标识符:  9f6428c0edde7502a5a7f860e890938052a694a5
+处理器数量:  24
+处理器类型:  13th Gen Intel(R) Core(TM) i7-13700K
+显卡标识符:  9476
+显卡名称:  NVIDIA GeForce RTX 3060
+显卡标识符:  4318
+显卡厂商:  NVIDIA
+显卡版本:  Direct3D 11.0 [level 11.1]
+显存大小:  12115
+显卡着色器级别:  50
+是否图像效果:  True
+是否支持内置阴影:  True
+*********************************************************************************************************end
+LogInfo:
+
+[W]
+[W]
+[W]
+[W]
+[W]
+[W]
+[W]
+[W]
+[W]
+[W]
+[W]
+[E]21:16:35.725 An infinite import loop has been detected. The following Assets were imported multiple times, but no changes to them have been detected. Please check if any custom code is trying to import them:
+Assets/StreamingAssets/Log/2024_12_03_21_15_54.log(modified date 2024-12-03T13:16:35.7256362Z)
+
+
+[W]
+[W]
+[W]
+[W]
+[W]
+[W]
+[W]
+[E]21:16:49.193 An infinite import loop has been detected. The following Assets were imported multiple times, but no changes to them have been detected. Please check if any custom code is trying to import them:
+Assets/StreamingAssets/Log/2024_12_03_21_15_54.log(modified date 2024-12-03T13:16:49.192689Z)
+Assets/Animations/Boar/Animator/Boar.controller - (Force Reimport)(modified date 2024-12-03T13:16:49.1163811Z)
+
+UnityEditor.EditorApplication:Internal_CallGlobalEventHandler ()
+

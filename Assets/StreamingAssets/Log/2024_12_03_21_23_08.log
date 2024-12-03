@@ -1,0 +1,46 @@
+*********************************************************************************************************start
+By CHINAMI-JBU9G23
+2024年12月3日  21:23:8
+
+操作系统:  Windows 11  (10.0.22621) 64bit
+系统内存大小:  32544
+设备模型:  MS-7D94 (Micro-Star International Co., Ltd.)
+设备唯一标识符:  9f6428c0edde7502a5a7f860e890938052a694a5
+处理器数量:  24
+处理器类型:  13th Gen Intel(R) Core(TM) i7-13700K
+显卡标识符:  9476
+显卡名称:  NVIDIA GeForce RTX 3060
+显卡标识符:  4318
+显卡厂商:  NVIDIA
+显卡版本:  Direct3D 11.0 [level 11.1]
+显存大小:  12115
+显卡着色器级别:  50
+是否图像效果:  True
+是否支持内置阴影:  True
+*********************************************************************************************************end
+LogInfo:
+
+[E]21:23:08.555 Assets\Scripts\Enemy\BoarController.cs(12,26): error CS0507: 'BoarController.Move()': cannot change access modifiers when overriding 'protected' inherited member 'BaseEnemy.Move()'
+
+[W]
+[W]
+[W]
+[W]
+[W]
+[W]
+[W]
+[W]
+[E]21:23:10.997 An infinite import loop has been detected. The following Assets were imported multiple times, but no changes to them have been detected. Please check if any custom code is trying to import them:
+Assets/StreamingAssets/Log/2024_12_03_21_23_08.log(modified date 2024-12-03T13:23:10.9970471Z)
+
+UnityEditor.AssetDatabase:Refresh ()
+Packages.Rider.Editor.RiderScriptEditor:SyncIfNeeded (bool) (at ./Library/PackageCache/com.unity.ide.rider/Rider/Editor/RiderScriptEditor.cs:178)
+System.Reflection.MethodBase:Invoke (object,object[])
+JetBrains.Rider.Unity.Editor.RiderPackageInterop:TrySyncIfNeeded (bool)
+JetBrains.Rider.Unity.Editor.RiderPackageInterop:SyncSolution ()
+JetBrains.Rider.Unity.Editor.UnityEditorProtocol/<>c:<AdviseOnRefresh>b__11_0 (JetBrains.Lifetimes.Lifetime,JetBrains.Rider.Model.Unity.BackendUnity.RefreshType)
+JetBrains.Rd.Tasks.RdCall`2/<>c__DisplayClass24_0<JetBrains.Rider.Model.Unity.BackendUnity.RefreshType, JetBrains.Core.Unit>:<OnWireReceived>b__0 ()
+JetBrains.Rd.Impl.MessageBroker/RdWireableDispatchHelper/<>c__DisplayClass12_0:<DoDispatch>b__0 ()
+JetBrains.Rider.Unity.Editor.MainThreadDispatcher:DispatchTasks ()
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
