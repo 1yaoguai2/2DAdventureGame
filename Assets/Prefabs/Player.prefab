@@ -330,7 +330,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e83ea5deabae13745a584741acb3118d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isManual: 1
+  isManual: 0
   checkRadius: 0.1
   leftOffset: {x: 0.5, y: 1}
   rightOffset: {x: -0.7, y: 1}

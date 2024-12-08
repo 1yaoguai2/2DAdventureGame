@@ -1,6 +1,6 @@
 *********************************************************************************************************start
 By CHINAMI-JBU9G23
-2024年11月21日  21:57:8
+2024年12月8日  22:13:37
 
 操作系统:  Windows 11  (10.0.22621) 64bit
 系统内存大小:  32544
@@ -20,29 +20,11 @@ By CHINAMI-JBU9G23
 *********************************************************************************************************end
 LogInfo:
 
+[I]22:13:37.785 Boar
 [W]
 [W]
 [W]
 [W]
-[E]21:57:59.530 Controller 'BluePlayer': Transition '' in state 'New State' uses parameter 'attack' which does not exist in controller.
-UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
-
-[E]21:58:01.820 Controller 'BluePlayer': Transition '' in state 'New State' uses parameter 'attack' which does not exist in controller.
-UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
-
-[W]
-[W]
-[W]
-[W]
-[W]
-[W]
-[W]
-[W]
-[W]
-[E]22:00:24.291 An infinite import loop has been detected. The following Assets were imported multiple times, but no changes to them have been detected. Please check if any custom code is trying to import them:
-Assets/StreamingAssets/Log/2024_11_21_21_57_08.log(modified date 2024-11-21T14:00:24.2917638Z)
-
-
 [W]
 [W]
 [W]

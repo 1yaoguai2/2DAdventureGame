@@ -1,12 +1,16 @@
-using System;
-using UnityEngine;
-using UnityEngine.PlayerLoop;
+
 
 public class BoarController : BaseEnemy
 {
-    private void Start()
+    protected override void Awake()
     {
-        anim.SetBool("Walk",true);
+        base.Awake();
+        patrolState = new BoarPatrolState();
+    }
+
+    void Start()
+    {
+        LogManager.Log(name);
     }
 
     protected override void Move()

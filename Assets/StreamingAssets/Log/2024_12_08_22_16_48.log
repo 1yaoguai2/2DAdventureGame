@@ -1,6 +1,6 @@
 *********************************************************************************************************start
 By CHINAMI-JBU9G23
-2024年11月21日  21:32:45
+2024年12月8日  22:16:48
 
 操作系统:  Windows 11  (10.0.22621) 64bit
 系统内存大小:  32544
@@ -20,20 +20,4 @@ By CHINAMI-JBU9G23
 *********************************************************************************************************end
 LogInfo:
 
-[W]
-[W]
-[W]
-[W]
-[W]
-[W]
-[W]
-[W]
-[W]
-[W]
-[W]
-[W]
-[W]
-[E]21:33:49.281 An infinite import loop has been detected. The following Assets were imported multiple times, but no changes to them have been detected. Please check if any custom code is trying to import them:
-Assets/StreamingAssets/Log/2024_11_21_21_32_45.log(modified date 2024-11-21T13:33:49.2813675Z)
-
-
+[I]22:16:48.548 Boar

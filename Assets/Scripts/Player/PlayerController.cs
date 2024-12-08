@@ -18,6 +18,7 @@ public class PlayerController : MonoBehaviour
     public bool isAttack;
 
     public UnityEvent playerAttackEvent;
+
     private void Awake()
     {
         _inputControl = new InputSystem_Actions();
@@ -54,11 +55,15 @@ public class PlayerController : MonoBehaviour
     private void PlayerMove()
     {
         _rb.linearVelocityX = inputDirection.x * moveSpeed * Time.deltaTime;
-        //角色朝向
+        //角色朝向,Flip只翻转人物贴图，不反转攻击特殊物体
+        // if (inputDirection.x > 0)
+        //     _spriteRenderer.flipX = false;
+        // else if (inputDirection.x < 0)
+        //     _spriteRenderer.flipX = true;
         if (inputDirection.x > 0)
-            _spriteRenderer.flipX = false;
+            transform.localScale = new Vector3(1, 1, 1);
         else if (inputDirection.x < 0)
-            _spriteRenderer.flipX = true;
+            transform.localScale = new Vector3(-1, 1, 1);
     }
 
     private void PlayerJump(InputAction.CallbackContext context)
@@ -75,12 +80,14 @@ public class PlayerController : MonoBehaviour
     /// <param name="context"></param>
     private void PlayerAttack(InputAction.CallbackContext context)
     {
+        if (!_physicsCheck.isGround) return;
         playerAttackEvent?.Invoke();
         isAttack = true;
         _rb.linearVelocityX = 0;
     }
 
     #region UnityEvent -> CharacterScript
+
     /// <summary>
     /// 受伤
     /// Character脚本事件绑定
