@@ -6,6 +6,7 @@ public class BoarController : BaseEnemy
     {
         base.Awake();
         patrolState = new BoarPatrolState();
+        chaseState = new BoarChaseState();
     }
 
     void Start()

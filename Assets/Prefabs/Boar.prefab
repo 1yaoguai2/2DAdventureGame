@@ -111,7 +111,7 @@ Rigidbody2D:
   m_LinearDamping: 0
   m_AngularDamping: 0.05
   m_GravityScale: 1
-  m_Material: {fileID: 6200000, guid: 97c289f289a72d24f9e37d8600232ee5, type: 2}
+  m_Material: {fileID: 6200000, guid: 99742d6f6e261b2469ebf06aaadc79fc, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -132,7 +132,7 @@ BoxCollider2D:
   m_Enabled: 1
   serializedVersion: 3
   m_Density: 1
-  m_Material: {fileID: 6200000, guid: 97c289f289a72d24f9e37d8600232ee5, type: 2}
+  m_Material: {fileID: 6200000, guid: 99742d6f6e261b2469ebf06aaadc79fc, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -178,7 +178,7 @@ CapsuleCollider2D:
   m_Enabled: 1
   serializedVersion: 3
   m_Density: 1
-  m_Material: {fileID: 6200000, guid: 97c289f289a72d24f9e37d8600232ee5, type: 2}
+  m_Material: {fileID: 6200000, guid: 99742d6f6e261b2469ebf06aaadc79fc, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -303,15 +303,24 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   anim: {fileID: 0}
   physicsCheck: {fileID: 0}
-  normalSpeed: 100
+  patrolSpeed: 100
   chaseSpeed: 260
   currentSpeed: 2
-  faceDir: 0
+  faceDir: -1
   hurtForce: 4.5
   attackerTrans: {fileID: 0}
+  centerOffset: {x: 0, y: 0.6}
+  checkSize: {x: 1, y: 1}
+  checkDistance: 4.4
+  attackLayer:
+    serializedVersion: 2
+    m_Bits: 128
   waitTime: 2
   waitTimeCenter: 0
-  _isWait: 0
+  lostTime: 4
+  lostTimeCenter: 0
+  isWait: 0
+  isLost: 0
   isHurt: 0
   isDead: 0
 --- !u!114 &7046222584819880131
