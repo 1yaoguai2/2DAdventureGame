@@ -40,6 +40,6 @@ MonoBehaviour:
     fontStyle: 0
   - keyChar: '-'
     textColor: {r: 1, g: 1, b: 1, a: 1}
-    backgroundColor: {r: 0.12941174, g: 0.8862745, b: 0.8118242, a: 1}
+    backgroundColor: {r: 0.1497543, g: 0.645283, b: 0.59650034, a: 1}
     textAlignment: 4
     fontStyle: 0

@@ -5,38 +5,40 @@ using UnityEngine.Events;
 public class Character : MonoBehaviour
 {
     [Header("基本属性")] public float maxHealth;
-    [SerializeField] private float currentHealth;
 
     [Header("受伤无敌")] public float invulnerableDuration;
 
     public float invulnerableCounter;
 
+    private float _currentHealth = 0;
     public bool isInvulnerable;
 
     public float CurrentHealth
     {
-        get => currentHealth;
+        get => _currentHealth;
         set
         {
-            if (Math.Abs(currentHealth - value) > 0)
+            if (Math.Abs(_currentHealth - value) > 0)
             {
                 if (value < 0)
                 {
-                    currentHealth = 0;
+                    _currentHealth = 0;
                     OnPlayerDeathEvent?.Invoke();
                 }
                 else
                 {
-                    currentHealth = value;
-                    
+                    _currentHealth = value;
                 }
+
+                OnHealthChanged?.Invoke(this);
             }
         }
     }
 
     public UnityEvent<Transform> OnTakeDamageEvent;
     public UnityEvent OnPlayerDeathEvent;
-    
+    public UnityEvent<Character> OnHealthChanged;
+
     private void Start()
     {
         CurrentHealth = maxHealth;
