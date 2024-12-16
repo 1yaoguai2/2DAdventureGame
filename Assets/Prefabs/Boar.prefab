@@ -275,8 +275,11 @@ MonoBehaviour:
           m_BoolArgument: 0
         m_CallState: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> origin/Main
       - m_Target: {fileID: 11400000, guid: a0bbf8f168ab6bb4bb572875fe6521b2, type: 2}
         m_TargetAssemblyTypeName: VoidEventSO, Assembly-CSharp
         m_MethodName: RaiseEvent
