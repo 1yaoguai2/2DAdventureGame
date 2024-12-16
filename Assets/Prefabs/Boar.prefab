@@ -240,6 +240,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   maxHealth: 30
+  currentHealth: 0
   invulnerableDuration: 1.1
   invulnerableCounter: 0
   isInvulnerable: 0
@@ -273,9 +274,24 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+<<<<<<< HEAD
+      - m_Target: {fileID: 11400000, guid: a0bbf8f168ab6bb4bb572875fe6521b2, type: 2}
+        m_TargetAssemblyTypeName: VoidEventSO, Assembly-CSharp
+        m_MethodName: RaiseEvent
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   OnHealthChanged:
     m_PersistentCalls:
       m_Calls: []
+=======
+>>>>>>> parent of 8ac1c9b (新增摄像机跟随和摄像机范围，摄像机抖动事件)
 --- !u!114 &6377532538529770533
 MonoBehaviour:
   m_ObjectHideFlags: 0
