@@ -1,17 +1,9 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
-<<<<<<<< HEAD:Assets/StreamingAssets/Log/2024_12_11_22_17_33.log.meta
-guid: 30fc8233c8eb67f489da7ef8db907f62
-========
-guid: 6b9866a53313c8b44b57638d4492a792
->>>>>>>> origin/main:Assets/StreamingAssets/Log/2024_12_11_22_18_11.log.meta
-=======
 <<<<<<<< HEAD:Assets/StreamingAssets/Log/2024_12_16_22_23_05.log.meta
 guid: 6c327a67199958646919132225a40532
 ========
 guid: 30fc8233c8eb67f489da7ef8db907f62
 >>>>>>>> parent of 8ac1c9b (新增摄像机跟随和摄像机范围，摄像机抖动事件):Assets/StreamingAssets/Log/2024_12_11_22_17_33.log.meta
->>>>>>> origin/main
 DefaultImporter:
   externalObjects: {}
   userData: 

@@ -2020,7 +2020,7 @@ Tilemap:
       - {fileID: 436597193, guid: 0c44c99859a18444b823f14e8e9ca48b, type: 3}
       - {fileID: 1734396411, guid: 0c44c99859a18444b823f14e8e9ca48b, type: 3}
       - {fileID: -1812237748, guid: 0c44c99859a18444b823f14e8e9ca48b, type: 3}
-      m_AnimationSpeed: 7
+      m_AnimationSpeed: 7.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: -5, y: -6, z: 0}
@@ -2097,7 +2097,7 @@ Tilemap:
       - {fileID: 436597193, guid: 0c44c99859a18444b823f14e8e9ca48b, type: 3}
       - {fileID: 1734396411, guid: 0c44c99859a18444b823f14e8e9ca48b, type: 3}
       - {fileID: -1812237748, guid: 0c44c99859a18444b823f14e8e9ca48b, type: 3}
-      m_AnimationSpeed: 7
+      m_AnimationSpeed: 7.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 2, y: -6, z: 0}
@@ -2119,7 +2119,7 @@ Tilemap:
       - {fileID: 436597193, guid: 0c44c99859a18444b823f14e8e9ca48b, type: 3}
       - {fileID: 1734396411, guid: 0c44c99859a18444b823f14e8e9ca48b, type: 3}
       - {fileID: -1812237748, guid: 0c44c99859a18444b823f14e8e9ca48b, type: 3}
-      m_AnimationSpeed: 7
+      m_AnimationSpeed: 7.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 4, y: -6, z: 0}
@@ -2207,7 +2207,7 @@ Tilemap:
       - {fileID: 436597193, guid: 0c44c99859a18444b823f14e8e9ca48b, type: 3}
       - {fileID: 1734396411, guid: 0c44c99859a18444b823f14e8e9ca48b, type: 3}
       - {fileID: -1812237748, guid: 0c44c99859a18444b823f14e8e9ca48b, type: 3}
-      m_AnimationSpeed: 7
+      m_AnimationSpeed: 7.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: -10, y: -5, z: 0}
@@ -2284,7 +2284,7 @@ Tilemap:
       - {fileID: 436597193, guid: 0c44c99859a18444b823f14e8e9ca48b, type: 3}
       - {fileID: 1734396411, guid: 0c44c99859a18444b823f14e8e9ca48b, type: 3}
       - {fileID: -1812237748, guid: 0c44c99859a18444b823f14e8e9ca48b, type: 3}
-      m_AnimationSpeed: 7
+      m_AnimationSpeed: 7.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: -3, y: -5, z: 0}
@@ -2317,7 +2317,7 @@ Tilemap:
       - {fileID: 436597193, guid: 0c44c99859a18444b823f14e8e9ca48b, type: 3}
       - {fileID: 1734396411, guid: 0c44c99859a18444b823f14e8e9ca48b, type: 3}
       - {fileID: -1812237748, guid: 0c44c99859a18444b823f14e8e9ca48b, type: 3}
-      m_AnimationSpeed: 7
+      m_AnimationSpeed: 7.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 0, y: -5, z: 0}
@@ -2500,7 +2500,7 @@ Tilemap:
       - {fileID: 436597193, guid: 0c44c99859a18444b823f14e8e9ca48b, type: 3}
       - {fileID: 1734396411, guid: 0c44c99859a18444b823f14e8e9ca48b, type: 3}
       - {fileID: -1812237748, guid: 0c44c99859a18444b823f14e8e9ca48b, type: 3}
-      m_AnimationSpeed: 7
+      m_AnimationSpeed: 7.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: -5, y: -4, z: 0}
@@ -2599,7 +2599,7 @@ Tilemap:
       - {fileID: 436597193, guid: 0c44c99859a18444b823f14e8e9ca48b, type: 3}
       - {fileID: 1734396411, guid: 0c44c99859a18444b823f14e8e9ca48b, type: 3}
       - {fileID: -1812237748, guid: 0c44c99859a18444b823f14e8e9ca48b, type: 3}
-      m_AnimationSpeed: 7
+      m_AnimationSpeed: 7.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 4, y: -4, z: 0}
@@ -6625,7 +6625,7 @@ Tilemap:
       - {fileID: -691572037, guid: 0c44c99859a18444b823f14e8e9ca48b, type: 3}
       - {fileID: 1184620043, guid: 0c44c99859a18444b823f14e8e9ca48b, type: 3}
       - {fileID: -2017171501, guid: 0c44c99859a18444b823f14e8e9ca48b, type: 3}
-      m_AnimationSpeed: 7
+      m_AnimationSpeed: 7.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 9, y: 4, z: 0}
@@ -7342,10 +7342,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+<<<<<<< HEAD
+=======
     - target: {fileID: 6217752117106002896, guid: 951b36ea931c9ea4bbe0edd87fd7397c, type: 3}
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 8ac1c9b (新增摄像机跟随和摄像机范围，摄像机抖动事件)
+>>>>>>> origin/main
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7362,10 +7368,6 @@ PrefabInstance:
     - target: {fileID: 252104966867882753, guid: 992f59ef80047c249aaa77cb4c74502b, type: 3}
       propertyPath: m_Name
       value: Boar
-      objectReference: {fileID: 0}
-    - target: {fileID: 252104966867882753, guid: 992f59ef80047c249aaa77cb4c74502b, type: 3}
-      propertyPath: m_IsActive
-      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 349401780409322679, guid: 992f59ef80047c249aaa77cb4c74502b, type: 3}
       propertyPath: m_LocalPosition.x
