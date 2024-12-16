@@ -240,7 +240,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   maxHealth: 30
-  currentHealth: 0
   invulnerableDuration: 1.1
   invulnerableCounter: 0
   isInvulnerable: 0
@@ -274,12 +273,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
->>>>>>> origin/Main
       - m_Target: {fileID: 11400000, guid: a0bbf8f168ab6bb4bb572875fe6521b2, type: 2}
         m_TargetAssemblyTypeName: VoidEventSO, Assembly-CSharp
         m_MethodName: RaiseEvent
@@ -295,9 +288,6 @@ MonoBehaviour:
   OnHealthChanged:
     m_PersistentCalls:
       m_Calls: []
-=======
->>>>>>> parent of 8ac1c9b (新增摄像机跟随和摄像机范围，摄像机抖动事件)
->>>>>>> origin/main
 --- !u!114 &6377532538529770533
 MonoBehaviour:
   m_ObjectHideFlags: 0
