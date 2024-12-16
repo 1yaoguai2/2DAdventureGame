@@ -1,26 +1,31 @@
 using System;
 using UnityEngine;
+using XTools.UI;
 
 public class EventManager : MonoBehaviour
 {
-    [Header("事件监听")] 
-    public CharacterEventSO healthEvent;
+    [Header("事件监听")] public CharacterEventSO healthEvent;
 
-    public MainCanvasController mainCanvasController;
+    //private MainCanvasController mainCanvasController;
 
     public void OnEnable()
     {
-        healthEvent.OnEventReised += OnHealthEvent;
+        healthEvent.OnEventRaised += OnHealthEvent;
     }
 
     private void OnDisable()
     {
-        healthEvent.OnEventReised += OnHealthEvent;
+        healthEvent.OnEventRaised += OnHealthEvent;
     }
 
     private void OnHealthEvent(Character character)
     {
         var persentage = character.CurrentHealth / character.maxHealth;
-        mainCanvasController.OnHealthChanged(persentage);
+        UIManager.Instance.panelDic.TryGetValue("MainCanvas", out BasePanel basePanel);
+        if (basePanel is not null)
+        {
+            var mainCanvas = basePanel as MainCanvasController;
+            mainCanvas.OnHealthChanged(persentage);
+        }
     }
 }

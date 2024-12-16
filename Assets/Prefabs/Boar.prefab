@@ -240,7 +240,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   maxHealth: 30
-  currentHealth: 0
   invulnerableDuration: 1.1
   invulnerableCounter: 0
   isInvulnerable: 0
@@ -274,6 +273,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnHealthChanged:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!114 &6377532538529770533
 MonoBehaviour:
   m_ObjectHideFlags: 0
