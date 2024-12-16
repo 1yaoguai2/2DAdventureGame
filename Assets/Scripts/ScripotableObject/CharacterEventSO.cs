@@ -4,10 +4,10 @@ using UnityEngine.Events;
 [CreateAssetMenu(menuName = "Event/CharacterEventSO")]
 public class CharacterEventSO : ScriptableObject
 {
-    public UnityAction<Character> OnEventRaised;
+    public UnityAction<Character> OnEventReised;
 
     public void RaiseEvent(Character character)
     {
-        OnEventRaised?.Invoke(character);
+        OnEventReised?.Invoke(character);
     }
 }

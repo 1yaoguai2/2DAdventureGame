@@ -154,5 +154,13 @@ namespace XTools.UI
         }
     }
 
-
+    /// <summary>
+    /// 示例类，用来初始化
+    /// key UI预制体名称
+    /// Value UI在Resources下的地址，例如Prefabs/UI/Menu
+    /// </summary>
+    public class UIConst
+    {
+        public Dictionary<string, string> uIPrefabPathsDic = new Dictionary<string, string>();
+    }
 }
