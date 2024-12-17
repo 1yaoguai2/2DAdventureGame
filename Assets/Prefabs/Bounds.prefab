@@ -48,7 +48,7 @@ PolygonCollider2D:
     m_Bits: 0
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 4294967295
   m_LayerOverridePriority: 0
   m_ForceSendLayers:
     serializedVersion: 2
@@ -78,8 +78,8 @@ PolygonCollider2D:
   m_AutoTiling: 0
   m_Points:
     m_Paths:
-    - - {x: 15, y: -6}
-      - {x: 15, y: 8}
-      - {x: -15, y: 8}
-      - {x: -15, y: -6}
+    - - {x: 60.119015, y: -10.258134}
+      - {x: 60.72257, y: 10.100952}
+      - {x: -11, y: 10}
+      - {x: -10.820625, y: -10.215336}
   m_UseDelaunayMesh: 0

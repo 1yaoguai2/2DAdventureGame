@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 6063439161561317484}
   - component: {fileID: 6801391969690405245}
   - component: {fileID: 3081441026638147055}
+  - component: {fileID: 4479038891379486398}
   m_Layer: 0
   m_Name: Attack2
   m_TagString: Untagged
@@ -103,6 +104,20 @@ MonoBehaviour:
   damage: 10
   attackRange: 0
   attackRate: 0
+--- !u!114 &4479038891379486398
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2899636318561177553}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5b1e476eec802243a228f8eaa597312, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  audioPlayEventSO: {fileID: 11400000, guid: d58804e31d1df3e4d89fe0461a29bae6, type: 2}
+  audioClip: {fileID: 8300000, guid: d46323e22e74e46baa241cbf48c85671, type: 3}
 --- !u!1 &6217752117106002896
 GameObject:
   m_ObjectHideFlags: 0
@@ -495,6 +510,7 @@ GameObject:
   - component: {fileID: 2453636387632474118}
   - component: {fileID: 6385373572750119329}
   - component: {fileID: 6399667730593733252}
+  - component: {fileID: 3483279743754568872}
   m_Layer: 0
   m_Name: Attack3
   m_TagString: Untagged
@@ -587,6 +603,20 @@ MonoBehaviour:
   damage: 20
   attackRange: 0
   attackRate: 0
+--- !u!114 &3483279743754568872
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8820817810438457355}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5b1e476eec802243a228f8eaa597312, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  audioPlayEventSO: {fileID: 11400000, guid: d58804e31d1df3e4d89fe0461a29bae6, type: 2}
+  audioClip: {fileID: 8300000, guid: fe0b1f9aeb45b41b089175aeeabd5d95, type: 3}
 --- !u!1 &8886636545441844701
 GameObject:
   m_ObjectHideFlags: 0
@@ -598,6 +628,7 @@ GameObject:
   - component: {fileID: 5860600235284720708}
   - component: {fileID: 2081853476041093840}
   - component: {fileID: 5408065594126799372}
+  - component: {fileID: 7379776908125216938}
   m_Layer: 0
   m_Name: Attack1
   m_TagString: Untagged
@@ -689,3 +720,17 @@ MonoBehaviour:
   damage: 10
   attackRange: 0
   attackRate: 0
+--- !u!114 &7379776908125216938
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8886636545441844701}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5b1e476eec802243a228f8eaa597312, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  audioPlayEventSO: {fileID: 11400000, guid: d58804e31d1df3e4d89fe0461a29bae6, type: 2}
+  audioClip: {fileID: 8300000, guid: fe0b1f9aeb45b41b089175aeeabd5d95, type: 3}

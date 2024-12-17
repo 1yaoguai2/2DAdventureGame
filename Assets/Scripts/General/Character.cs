@@ -83,4 +83,14 @@ public class Character : MonoBehaviour
             invulnerableCounter = invulnerableDuration;
         }
     }
+
+    private void OnTriggerStay2D(Collider2D other)
+    {
+        if (other.CompareTag("Water"))
+        {
+            CurrentHealth = 0;
+            OnHealthChanged?.Invoke(this);
+            OnPlayerDeathEvent?.Invoke();
+        }
+    }
 }

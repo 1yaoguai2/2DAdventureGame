@@ -30,7 +30,7 @@ public class MainCanvasController : BasePanel
         while (healthFillRedImage.fillAmount > newHealthratio)
         {
             healthFillRedImage.fillAmount -= Time.deltaTime;
-            yield return new WaitForSeconds(0.1f);
+            yield return new WaitForSeconds(0.15f);
             //yield return null;
         }
 
