@@ -223,7 +223,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -237,7 +237,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 24
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -261,7 +261,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -290,10 +290,10 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 271
-        width: 129
-        height: 129
-      alignment: 0
+        y: 320
+        width: 80
+        height: 67
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -311,12 +311,12 @@ TextureImporter:
       name: Interior-01_1
       rect:
         serializedVersion: 2
-        x: 130
-        y: 335
-        width: 44
-        height: 62
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 131
+        y: 336
+        width: 42
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -333,12 +333,12 @@ TextureImporter:
       name: Interior-01_2
       rect:
         serializedVersion: 2
-        x: 212
-        y: 383
-        width: 7
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 213
+        y: 384
+        width: 5
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -355,12 +355,12 @@ TextureImporter:
       name: Interior-01_3
       rect:
         serializedVersion: 2
-        x: 229
-        y: 383
-        width: 24
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 230
+        y: 384
+        width: 22
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -377,12 +377,12 @@ TextureImporter:
       name: Interior-01_4
       rect:
         serializedVersion: 2
-        x: 260
-        y: 383
-        width: 7
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 261
+        y: 384
+        width: 5
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -399,12 +399,12 @@ TextureImporter:
       name: Interior-01_5
       rect:
         serializedVersion: 2
-        x: 277
-        y: 383
-        width: 24
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 278
+        y: 384
+        width: 22
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -421,12 +421,12 @@ TextureImporter:
       name: Interior-01_6
       rect:
         serializedVersion: 2
-        x: 308
-        y: 383
-        width: 7
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 309
+        y: 384
+        width: 5
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -443,12 +443,12 @@ TextureImporter:
       name: Interior-01_7
       rect:
         serializedVersion: 2
-        x: 325
-        y: 383
-        width: 24
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 326
+        y: 384
+        width: 22
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -465,12 +465,12 @@ TextureImporter:
       name: Interior-01_8
       rect:
         serializedVersion: 2
-        x: 356
-        y: 383
-        width: 7
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 357
+        y: 384
+        width: 5
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -487,12 +487,12 @@ TextureImporter:
       name: Interior-01_9
       rect:
         serializedVersion: 2
-        x: 373
-        y: 383
-        width: 24
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 374
+        y: 384
+        width: 22
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -509,12 +509,12 @@ TextureImporter:
       name: Interior-01_10
       rect:
         serializedVersion: 2
-        x: 210
-        y: 367
-        width: 29
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 211
+        y: 368
+        width: 27
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -531,12 +531,12 @@ TextureImporter:
       name: Interior-01_11
       rect:
         serializedVersion: 2
-        x: 242
-        y: 367
-        width: 45
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 243
+        y: 368
+        width: 43
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -553,12 +553,12 @@ TextureImporter:
       name: Interior-01_12
       rect:
         serializedVersion: 2
-        x: 290
-        y: 367
-        width: 45
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 291
+        y: 368
+        width: 43
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -575,12 +575,12 @@ TextureImporter:
       name: Interior-01_13
       rect:
         serializedVersion: 2
-        x: 338
-        y: 367
-        width: 29
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 339
+        y: 368
+        width: 27
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -597,12 +597,12 @@ TextureImporter:
       name: Interior-01_14
       rect:
         serializedVersion: 2
-        x: 369
-        y: 351
-        width: 31
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 370
+        y: 352
+        width: 29
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -619,12 +619,12 @@ TextureImporter:
       name: Interior-01_15
       rect:
         serializedVersion: 2
-        x: 212
-        y: 351
-        width: 7
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 213
+        y: 352
+        width: 5
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -641,12 +641,12 @@ TextureImporter:
       name: Interior-01_16
       rect:
         serializedVersion: 2
-        x: 229
-        y: 351
-        width: 24
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 230
+        y: 352
+        width: 22
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -663,12 +663,12 @@ TextureImporter:
       name: Interior-01_17
       rect:
         serializedVersion: 2
-        x: 260
-        y: 351
-        width: 7
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 261
+        y: 352
+        width: 5
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -685,12 +685,12 @@ TextureImporter:
       name: Interior-01_18
       rect:
         serializedVersion: 2
-        x: 277
-        y: 351
-        width: 24
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 278
+        y: 352
+        width: 22
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -707,12 +707,12 @@ TextureImporter:
       name: Interior-01_19
       rect:
         serializedVersion: 2
-        x: 308
-        y: 351
-        width: 7
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 309
+        y: 352
+        width: 5
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -729,12 +729,12 @@ TextureImporter:
       name: Interior-01_20
       rect:
         serializedVersion: 2
-        x: 325
-        y: 351
-        width: 24
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 326
+        y: 352
+        width: 22
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -751,12 +751,12 @@ TextureImporter:
       name: Interior-01_21
       rect:
         serializedVersion: 2
-        x: 356
-        y: 351
-        width: 7
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 357
+        y: 352
+        width: 5
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -773,12 +773,12 @@ TextureImporter:
       name: Interior-01_22
       rect:
         serializedVersion: 2
-        x: 210
-        y: 335
-        width: 29
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 211
+        y: 336
+        width: 27
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -795,12 +795,12 @@ TextureImporter:
       name: Interior-01_23
       rect:
         serializedVersion: 2
-        x: 242
-        y: 335
-        width: 45
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 243
+        y: 336
+        width: 43
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -817,12 +817,12 @@ TextureImporter:
       name: Interior-01_24
       rect:
         serializedVersion: 2
-        x: 290
-        y: 335
-        width: 45
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 291
+        y: 336
+        width: 43
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -839,12 +839,12 @@ TextureImporter:
       name: Interior-01_25
       rect:
         serializedVersion: 2
-        x: 338
-        y: 335
-        width: 29
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 339
+        y: 336
+        width: 27
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -861,12 +861,12 @@ TextureImporter:
       name: Interior-01_26
       rect:
         serializedVersion: 2
-        x: 369
-        y: 319
-        width: 31
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 370
+        y: 320
+        width: 29
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -884,11 +884,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 159
-        width: 177
-        height: 174
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        y: 192
+        width: 80
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -905,12 +905,12 @@ TextureImporter:
       name: Interior-01_28
       rect:
         serializedVersion: 2
-        x: 212
-        y: 319
-        width: 7
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 213
+        y: 320
+        width: 5
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -927,12 +927,12 @@ TextureImporter:
       name: Interior-01_29
       rect:
         serializedVersion: 2
-        x: 229
-        y: 319
-        width: 24
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 230
+        y: 320
+        width: 22
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -949,12 +949,12 @@ TextureImporter:
       name: Interior-01_30
       rect:
         serializedVersion: 2
-        x: 260
-        y: 319
-        width: 7
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 261
+        y: 320
+        width: 5
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -971,12 +971,12 @@ TextureImporter:
       name: Interior-01_31
       rect:
         serializedVersion: 2
-        x: 277
-        y: 319
-        width: 24
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 278
+        y: 320
+        width: 22
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -993,12 +993,12 @@ TextureImporter:
       name: Interior-01_32
       rect:
         serializedVersion: 2
-        x: 308
-        y: 319
-        width: 7
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 309
+        y: 320
+        width: 5
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1015,12 +1015,12 @@ TextureImporter:
       name: Interior-01_33
       rect:
         serializedVersion: 2
-        x: 325
-        y: 319
-        width: 24
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 326
+        y: 320
+        width: 22
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1037,12 +1037,12 @@ TextureImporter:
       name: Interior-01_34
       rect:
         serializedVersion: 2
-        x: 356
-        y: 319
-        width: 7
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 357
+        y: 320
+        width: 5
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1059,12 +1059,12 @@ TextureImporter:
       name: Interior-01_35
       rect:
         serializedVersion: 2
-        x: 210
-        y: 303
-        width: 29
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 211
+        y: 304
+        width: 27
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1081,12 +1081,12 @@ TextureImporter:
       name: Interior-01_36
       rect:
         serializedVersion: 2
-        x: 242
-        y: 303
-        width: 45
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 243
+        y: 304
+        width: 43
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1103,12 +1103,12 @@ TextureImporter:
       name: Interior-01_37
       rect:
         serializedVersion: 2
-        x: 290
-        y: 303
-        width: 45
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 291
+        y: 304
+        width: 43
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1125,12 +1125,12 @@ TextureImporter:
       name: Interior-01_38
       rect:
         serializedVersion: 2
-        x: 338
-        y: 303
-        width: 29
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 339
+        y: 304
+        width: 27
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1147,12 +1147,12 @@ TextureImporter:
       name: Interior-01_39
       rect:
         serializedVersion: 2
-        x: 369
-        y: 287
-        width: 31
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 370
+        y: 288
+        width: 29
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1169,12 +1169,12 @@ TextureImporter:
       name: Interior-01_40
       rect:
         serializedVersion: 2
-        x: 212
-        y: 287
-        width: 7
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 213
+        y: 288
+        width: 5
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1191,12 +1191,12 @@ TextureImporter:
       name: Interior-01_41
       rect:
         serializedVersion: 2
-        x: 229
-        y: 287
-        width: 24
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 230
+        y: 288
+        width: 22
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1213,12 +1213,12 @@ TextureImporter:
       name: Interior-01_42
       rect:
         serializedVersion: 2
-        x: 260
-        y: 287
-        width: 7
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 261
+        y: 288
+        width: 5
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1235,12 +1235,12 @@ TextureImporter:
       name: Interior-01_43
       rect:
         serializedVersion: 2
-        x: 277
-        y: 287
-        width: 24
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 278
+        y: 288
+        width: 22
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1257,12 +1257,12 @@ TextureImporter:
       name: Interior-01_44
       rect:
         serializedVersion: 2
-        x: 308
-        y: 287
-        width: 7
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 309
+        y: 288
+        width: 5
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1279,12 +1279,12 @@ TextureImporter:
       name: Interior-01_45
       rect:
         serializedVersion: 2
-        x: 325
-        y: 287
-        width: 24
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 326
+        y: 288
+        width: 22
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1301,12 +1301,12 @@ TextureImporter:
       name: Interior-01_46
       rect:
         serializedVersion: 2
-        x: 356
-        y: 287
-        width: 7
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 357
+        y: 288
+        width: 5
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1323,12 +1323,12 @@ TextureImporter:
       name: Interior-01_47
       rect:
         serializedVersion: 2
-        x: 210
-        y: 271
-        width: 29
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 211
+        y: 272
+        width: 27
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1345,12 +1345,12 @@ TextureImporter:
       name: Interior-01_48
       rect:
         serializedVersion: 2
-        x: 242
-        y: 271
-        width: 45
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 243
+        y: 272
+        width: 43
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1367,12 +1367,12 @@ TextureImporter:
       name: Interior-01_49
       rect:
         serializedVersion: 2
-        x: 290
-        y: 271
-        width: 45
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 291
+        y: 272
+        width: 43
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1389,12 +1389,12 @@ TextureImporter:
       name: Interior-01_50
       rect:
         serializedVersion: 2
-        x: 338
-        y: 271
-        width: 29
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 339
+        y: 272
+        width: 27
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1411,12 +1411,12 @@ TextureImporter:
       name: Interior-01_51
       rect:
         serializedVersion: 2
-        x: 369
-        y: 239
-        width: 31
-        height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 370
+        y: 240
+        width: 29
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1433,12 +1433,12 @@ TextureImporter:
       name: Interior-01_52
       rect:
         serializedVersion: 2
-        x: 212
-        y: 255
-        width: 7
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 213
+        y: 256
+        width: 5
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1455,12 +1455,12 @@ TextureImporter:
       name: Interior-01_53
       rect:
         serializedVersion: 2
-        x: 229
-        y: 255
-        width: 24
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 230
+        y: 256
+        width: 22
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1477,12 +1477,12 @@ TextureImporter:
       name: Interior-01_54
       rect:
         serializedVersion: 2
-        x: 260
-        y: 255
-        width: 7
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 261
+        y: 256
+        width: 5
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1499,12 +1499,12 @@ TextureImporter:
       name: Interior-01_55
       rect:
         serializedVersion: 2
-        x: 277
-        y: 255
-        width: 24
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 278
+        y: 256
+        width: 22
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1521,12 +1521,12 @@ TextureImporter:
       name: Interior-01_56
       rect:
         serializedVersion: 2
-        x: 308
-        y: 255
-        width: 7
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 309
+        y: 256
+        width: 5
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1543,12 +1543,12 @@ TextureImporter:
       name: Interior-01_57
       rect:
         serializedVersion: 2
-        x: 325
-        y: 255
-        width: 24
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 326
+        y: 256
+        width: 22
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1565,12 +1565,12 @@ TextureImporter:
       name: Interior-01_58
       rect:
         serializedVersion: 2
-        x: 356
-        y: 255
-        width: 7
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 357
+        y: 256
+        width: 5
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1587,12 +1587,12 @@ TextureImporter:
       name: Interior-01_59
       rect:
         serializedVersion: 2
-        x: 210
-        y: 239
-        width: 29
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 211
+        y: 240
+        width: 27
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1609,12 +1609,12 @@ TextureImporter:
       name: Interior-01_60
       rect:
         serializedVersion: 2
-        x: 242
-        y: 239
-        width: 45
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 243
+        y: 240
+        width: 43
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1631,12 +1631,12 @@ TextureImporter:
       name: Interior-01_61
       rect:
         serializedVersion: 2
-        x: 290
-        y: 239
-        width: 45
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 291
+        y: 240
+        width: 43
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1653,12 +1653,12 @@ TextureImporter:
       name: Interior-01_62
       rect:
         serializedVersion: 2
-        x: 338
-        y: 239
-        width: 29
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 339
+        y: 240
+        width: 27
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1671,11 +1671,55 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Interior-01_63
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 288
+        width: 30
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864f15b676db31441926b1c62425f21b
+      internalID: 24609769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior-01_64
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 256
+        width: 30
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41379312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f397905830983474caf9565df826daff
+      internalID: 1391185178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 575bb9f3900b036469dc459507c0fd3b
     internalID: 0
     vertices: []
     indices: 
@@ -1745,6 +1789,8 @@ TextureImporter:
       Interior-01_60: 6877661972470716991
       Interior-01_61: -6367886490032750173
       Interior-01_62: 663641263172406413
+      Interior-01_63: 24609769
+      Interior-01_64: 1391185178
       Interior-01_7: 9068344544288912772
       Interior-01_8: 1958166437901023365
       Interior-01_9: 7768557006944882573

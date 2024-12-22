@@ -80,7 +80,7 @@ public class BaseEnemy : MonoBehaviour
         // else
         // {
         //     _rb.linearVelocityX = 0;
-        //     LogManager.Log("isWait:"+_isWait);
+        //     CustomLogger.Log("isWait:"+_isWait);
         // }
     }
 
@@ -199,7 +199,7 @@ public class BaseEnemy : MonoBehaviour
         currentState.OnExit();
         currentState = newState;
         currentState?.OnEnter(this);
-        LogManager.Log("切换状态：" + state);
+        CustomLogger.Log("切换状态：" + state);
     }
 
     /// <summary>

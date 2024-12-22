@@ -1,0 +1,12 @@
+
+=== Log Start at 2024-12-22 21:11:07 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 1.0
+=====================================
+
+[21:11:07.898][LOG]Game Exit!
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\xtools\Runtime\Log\CustomLogger.cs
+Line: 51
+
+=== Log End ===

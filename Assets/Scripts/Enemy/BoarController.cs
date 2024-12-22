@@ -11,7 +11,7 @@ public class BoarController : BaseEnemy
 
     void Start()
     {
-        LogManager.Log(name);
+        CustomLogger.Log(name);
     }
 
     protected override void Move()
