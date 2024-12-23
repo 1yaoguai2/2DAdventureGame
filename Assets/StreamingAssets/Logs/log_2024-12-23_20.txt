@@ -1,0 +1,4836 @@
+
+=== Log Start at 2024-12-23 20:52:25 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 1.0
+=====================================
+
+[20:51:29.891][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:29.900][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:29.935][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:29.935][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.086][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.087][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.090][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.091][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.095][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.095][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.099][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.099][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.103][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.103][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.107][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.108][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.111][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.111][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.122][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.123][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.127][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.127][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.130][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.131][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.138][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.138][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.141][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.142][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.460][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.460][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.464][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.464][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.467][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.467][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.471][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.471][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.477][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.479][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.482][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.483][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.486][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.487][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.498][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.498][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.502][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.503][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.506][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.507][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.510][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.510][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.513][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.514][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.518][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.518][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.521][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.522][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.533][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.533][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.537][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.537][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.541][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.542][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.544][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.546][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.549][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.549][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.552][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.554][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.557][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.558][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.570][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.570][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.573][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.574][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.578][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.578][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.581][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.583][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.586][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.587][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.590][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.592][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.603][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.603][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.774][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.775][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.778][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.779][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.782][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.782][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.797][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.798][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.801][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.801][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.811][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.813][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.821][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.823][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.830][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.830][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.844][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.845][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.858][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.858][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.914][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:30.915][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.272][LOG]Keyboard:/Keyboard
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.272][LOG]使用键鼠操作！
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 47
+[20:51:31.272][LOG]Keyboard:/Keyboard
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.273][LOG]使用键鼠操作！
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 47
+[20:51:31.340][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.340][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.680][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.680][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.691][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.691][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.730][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.731][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.733][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.734][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.757][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.757][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.777][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.778][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.786][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.787][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.816][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.816][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.822][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.822][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.832][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.832][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.837][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.838][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.848][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.848][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.852][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.852][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.855][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.856][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.863][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.864][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.867][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.868][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.871][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.871][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.875][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.875][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.885][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.886][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.890][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.890][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.893][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.893][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.900][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.901][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.904][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.905][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.909][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.910][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.920][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.920][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.924][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.925][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.929][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.929][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.932][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:31.933][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:32.148][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:32.149][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:32.162][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:32.162][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:32.166][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:32.166][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:32.169][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:32.170][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:32.174][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:32.174][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:32.177][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:32.177][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:32.181][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:32.181][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:32.185][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:32.186][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:32.189][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:32.189][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:32.199][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:32.200][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:32.204][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:32.204][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:32.210][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:32.211][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:32.220][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:32.221][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:32.233][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:32.233][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:32.312][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:32.313][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:32.969][LOG]Keyboard:/Keyboard
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:32.969][LOG]使用键鼠操作！
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 47
+[20:51:32.970][LOG]Keyboard:/Keyboard
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:32.970][LOG]使用键鼠操作！
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 47
+[20:51:33.679][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:33.680][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:33.749][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:33.750][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:33.752][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:33.752][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:33.756][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:33.756][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:33.759][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:33.759][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:33.770][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:33.770][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:33.775][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:33.775][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:33.778][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:33.779][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:33.782][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:33.783][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:33.785][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:33.787][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:33.789][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:33.789][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:34.009][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:34.010][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:34.013][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:34.013][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:34.019][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:34.020][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:34.022][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:34.022][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:34.026][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:34.026][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:34.030][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:34.030][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:34.032][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:34.033][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:34.044][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:34.045][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:34.082][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:34.082][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:34.085][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:34.085][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:34.323][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:34.323][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:34.330][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:34.331][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:34.337][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:34.339][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:34.352][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:34.352][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:34.360][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:34.360][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:34.364][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:34.365][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:34.376][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:34.376][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:35.647][LOG]Keyboard:/Keyboard
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:35.648][LOG]使用键鼠操作！
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 47
+[20:51:35.648][LOG]Keyboard:/Keyboard
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:35.648][LOG]使用键鼠操作！
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 47
+[20:51:37.139][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.140][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.143][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.143][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.147][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.147][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.150][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.150][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.160][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.162][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.165][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.165][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.170][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.170][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.173][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.174][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.177][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.177][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.181][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.181][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.184][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.184][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.195][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.195][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.199][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.200][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.202][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.203][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.206][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.207][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.210][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.211][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.214][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.214][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.217][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.217][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.228][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.229][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.237][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.238][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.244][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.245][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.248][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.249][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.252][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.253][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.263][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.263][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.267][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.268][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.270][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.270][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.274][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.275][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.277][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.278][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.281][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.282][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.285][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.285][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.289][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.289][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.298][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.300][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.303][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.303][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.309][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.309][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.332][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.332][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.345][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.345][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.350][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.350][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.354][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.354][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.356][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.356][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.368][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.368][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.371][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.371][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.375][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.375][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.378][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.378][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.381][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.381][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.385][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.385][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.389][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.389][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.393][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.393][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.403][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.404][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.407][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.407][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.410][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.410][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.414][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.415][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.417][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.418][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.420][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.420][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.424][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.426][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.429][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.429][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.442][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.443][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.447][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.447][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.450][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.451][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.454][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.455][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.458][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.458][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.461][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.461][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.465][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.465][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.475][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.476][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.479][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.479][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.483][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.483][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.486][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.486][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.489][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.489][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.493][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.493][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.499][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.499][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.512][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.512][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.610][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.610][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.725][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.725][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.732][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.732][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.738][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.738][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.748][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.749][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.752][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.753][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.756][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.756][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.759][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.759][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.762][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.762][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.766][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.767][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.771][LOG]Keyboard:/Keyboard
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.771][LOG]使用键鼠操作！
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 47
+[20:51:37.772][LOG]Keyboard:/Keyboard
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.772][LOG]使用键鼠操作！
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 47
+[20:51:37.772][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.772][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.776][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.776][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.787][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.787][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.790][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.791][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.794][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.794][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.798][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.798][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.801][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.802][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.805][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.805][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.811][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.811][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.824][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:37.825][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.007][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.007][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.009][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.011][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.027][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.028][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.040][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.040][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.240][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.240][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.250][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.250][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.260][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.260][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.267][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.269][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.272][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.272][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.275][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.275][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.277][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.277][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.282][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.282][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.286][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.287][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.297][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.297][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.343][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.344][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.347][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.347][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.355][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.355][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.366][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.366][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.371][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.372][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.377][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.379][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.381][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.382][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.385][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.385][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.398][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.399][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.402][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.402][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.405][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.405][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.410][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.410][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.413][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.413][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.416][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.418][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.421][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.421][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.424][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.425][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.435][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.436][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.443][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.444][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.447][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.447][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.451][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.451][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.455][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.455][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.458][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.458][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.469][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.470][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.474][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.474][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.478][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.478][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.481][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.482][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.485][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.485][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.489][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.489][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.492][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.492][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.504][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.504][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.508][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.508][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.512][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.512][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.515][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.515][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.518][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.518][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.521][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.521][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.525][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.525][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.529][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.529][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.540][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.541][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.756][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.757][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.764][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.764][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.780][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:38.781][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:39.821][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:39.822][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:39.923][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:39.924][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:39.943][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:39.944][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:39.947][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:39.948][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:40.027][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:40.028][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:40.141][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:40.142][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:40.220][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:40.220][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:40.332][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:40.332][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:40.341][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:40.343][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:40.402][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:40.404][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:40.496][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:40.497][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:40.507][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:40.508][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:40.509][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:40.511][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:40.583][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:40.583][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:40.705][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:40.706][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:40.717][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:40.718][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:40.721][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:40.721][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:40.801][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:40.803][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:40.950][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:40.950][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.052][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.052][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.060][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.060][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.077][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.078][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.153][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.154][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.249][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.249][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.261][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.261][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.263][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.264][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.329][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.330][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.435][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.435][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.520][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.520][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.576][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.576][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.578][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.580][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.590][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.590][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.593][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.593][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.597][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.597][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.601][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.601][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.659][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.659][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.662][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.662][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.668][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.668][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.671][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.672][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.674][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.675][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.677][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.677][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.681][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.682][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.685][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.685][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.696][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.696][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.704][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.706][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.712][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.712][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.715][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.715][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.719][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.720][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.730][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.730][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.733][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.733][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.737][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.738][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.741][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.742][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.745][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.746][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.749][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.749][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.752][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.753][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.763][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.763][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.767][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.767][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.770][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.771][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.774][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.775][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.778][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.778][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.781][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.782][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.785][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.786][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.788][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.789][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.799][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.800][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.803][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.803][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.807][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.807][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.810][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.811][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.815][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.816][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.821][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.821][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.824][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.824][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.835][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.835][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.839][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.839][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.842][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.842][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.846][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.847][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.852][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.853][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.858][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.859][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.869][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.870][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.880][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.880][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.905][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.906][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.914][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.914][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.917][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.918][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.920][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.921][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.926][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.926][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.937][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.937][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.940][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.941][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.944][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.945][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.948][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.948][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.951][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.951][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.954][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.955][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.958][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.958][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.961][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.961][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.973][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.973][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.976][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.977][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.983][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.983][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.985][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:51:41.987][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:02.053][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:02.053][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:02.103][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:02.103][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:02.112][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:02.112][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:02.125][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:02.125][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:02.128][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:02.128][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:02.138][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:02.138][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:02.144][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:02.144][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:02.156][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:02.156][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:02.159][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:02.160][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:02.164][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:02.165][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:02.174][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:02.175][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:03.465][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:03.465][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:04.292][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:04.293][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:05.165][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:05.166][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:05.176][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:05.178][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:05.182][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:05.182][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:05.185][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:05.185][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:05.191][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:05.191][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:05.198][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:05.198][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:05.202][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:05.202][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:05.212][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:05.213][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:06.149][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:06.149][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:06.167][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:06.167][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:06.235][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:06.235][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:06.910][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:06.911][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:06.916][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:06.916][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:06.929][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:06.929][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:06.932][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:06.933][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.156][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.156][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.159][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.160][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.163][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.163][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.166][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.166][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.170][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.170][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.174][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.174][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.185][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.185][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.187][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.189][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.192][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.192][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.196][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.196][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.199][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.200][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.203][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.203][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.207][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.207][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.218][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.219][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.222][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.222][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.225][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.227][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.230][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.230][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.234][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.234][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.237][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.238][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.241][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.241][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.252][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.252][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.256][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.256][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.259][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.260][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.263][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.264][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.266][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.267][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.270][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.270][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.273][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.275][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.278][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.278][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.288][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.289][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.292][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.292][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.295][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.296][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.299][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.300][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.303][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.304][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.306][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.307][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.310][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.311][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.313][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.314][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.324][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.324][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.466][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.467][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.472][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.472][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.476][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.476][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.480][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.480][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.483][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.484][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.494][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.495][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.498][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.499][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.503][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.504][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.549][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.549][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.564][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.564][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.571][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.572][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.575][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.576][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.578][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.580][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.582][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.583][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.586][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.587][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.597][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.598][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.601][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.602][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.605][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.606][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.609][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.609][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.612][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.613][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.616][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.616][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.620][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.620][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.631][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.631][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.635][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.635][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.638][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.639][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.642][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.642][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.646][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.646][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.650][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.650][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.653][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.654][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.664][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.664][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.668][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.668][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.673][LOG]Keyboard:/Keyboard
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.673][LOG]使用键鼠操作！
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 47
+[20:52:07.673][LOG]Keyboard:/Keyboard
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.674][LOG]使用键鼠操作！
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 47
+[20:52:07.674][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.674][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.678][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.679][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.682][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.682][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.703][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.703][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.717][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.717][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.730][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.730][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.733][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.735][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.738][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.739][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.742][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.742][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.745][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.746][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.749][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.749][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.752][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.752][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.765][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.765][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.876][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.877][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.881][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.881][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.885][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.885][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.888][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.889][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.891][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.891][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.895][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.896][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.906][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.906][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.912][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.913][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.916][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.916][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.919][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.919][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.925][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.925][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.928][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.929][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.940][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:07.940][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:09.460][LOG]Keyboard:/Keyboard
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:09.461][LOG]使用键鼠操作！
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 47
+[20:52:09.461][LOG]Keyboard:/Keyboard
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:09.461][LOG]使用键鼠操作！
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 47
+[20:52:10.072][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:10.073][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:10.583][LOG]Keyboard:/Keyboard
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:10.584][LOG]使用键鼠操作！
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 47
+[20:52:10.584][LOG]Keyboard:/Keyboard
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:10.584][LOG]使用键鼠操作！
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 47
+[20:52:11.080][LOG]Keyboard:/Keyboard
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:11.080][LOG]使用键鼠操作！
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 47
+[20:52:11.081][LOG]Keyboard:/Keyboard
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:11.081][LOG]使用键鼠操作！
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 47
+[20:52:11.379][LOG]Keyboard:/Keyboard
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:11.379][LOG]使用键鼠操作！
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 47
+[20:52:11.380][LOG]Keyboard:/Keyboard
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:11.380][LOG]使用键鼠操作！
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 47
+[20:52:11.867][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:11.868][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:11.871][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:11.871][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:11.876][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:11.876][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:11.879][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:11.879][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:11.883][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:11.883][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:11.893][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:11.893][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:11.897][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:11.897][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:11.900][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:11.900][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:11.905][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:11.905][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:11.908][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:11.908][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:11.911][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:11.912][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:11.916][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:11.916][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:11.921][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:11.921][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:11.932][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:11.932][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:11.935][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:11.936][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:11.939][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:11.939][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:11.944][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:11.944][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:11.947][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:11.948][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:11.952][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:11.952][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:11.956][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:11.957][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:11.967][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:11.968][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:11.972][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:11.972][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:11.975][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:11.975][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:11.978][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:11.980][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:11.984][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:11.984][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:11.988][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:11.988][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:11.991][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:11.991][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.003][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.003][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.007][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.007][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.010][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.010][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.014][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.014][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.017][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.019][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.021][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.022][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.026][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.026][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.037][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.038][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.041][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.041][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.045][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.047][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.047][LOG]Keyboard:/Keyboard
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.047][LOG]使用键鼠操作！
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 47
+[20:52:12.047][LOG]Keyboard:/Keyboard
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.047][LOG]使用键鼠操作！
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 47
+[20:52:12.052][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.052][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.055][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.056][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.059][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.059][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.080][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.080][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.088][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.089][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.097][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.097][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.113][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.113][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.121][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.122][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.130][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.131][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.156][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.158][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.279][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.280][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.283][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.283][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.286][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.288][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.292][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.292][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.296][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.297][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.302][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.302][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.312][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.313][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.743][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.744][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.746][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.747][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.757][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.758][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.761][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.762][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.766][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.766][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.769][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.769][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.774][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.774][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.777][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.777][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.782][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.782][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.793][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.793][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.797][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.797][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.802][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.802][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.806][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.806][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.809][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.810][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.814][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.814][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.818][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.818][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.829][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.829][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.833][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.833][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.836][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.836][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.840][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.841][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.844][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.844][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.848][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.848][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.851][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.851][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.864][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.864][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.871][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.871][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.876][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.877][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.880][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.881][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.884][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.884][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.898][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.898][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.906][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:12.907][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:13.207][LOG]Keyboard:/Keyboard
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:13.209][LOG]使用键鼠操作！
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 47
+[20:52:13.209][LOG]Keyboard:/Keyboard
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:13.209][LOG]使用键鼠操作！
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 47
+[20:52:13.920][LOG]Keyboard:/Keyboard
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:13.920][LOG]使用键鼠操作！
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 47
+[20:52:13.920][LOG]Keyboard:/Keyboard
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:13.921][LOG]使用键鼠操作！
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 47
+[20:52:14.021][LOG]Keyboard:/Keyboard
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:14.022][LOG]使用键鼠操作！
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 47
+[20:52:14.022][LOG]Keyboard:/Keyboard
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:14.022][LOG]使用键鼠操作！
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 47
+[20:52:14.468][LOG]Keyboard:/Keyboard
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:14.469][LOG]使用键鼠操作！
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 47
+[20:52:14.469][LOG]Keyboard:/Keyboard
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:14.469][LOG]使用键鼠操作！
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 47
+[20:52:14.944][LOG]Keyboard:/Keyboard
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:14.944][LOG]使用键鼠操作！
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 47
+[20:52:14.944][LOG]Keyboard:/Keyboard
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:14.945][LOG]使用键鼠操作！
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 47
+[20:52:15.191][LOG]Keyboard:/Keyboard
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.191][LOG]使用键鼠操作！
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 47
+[20:52:15.192][LOG]Keyboard:/Keyboard
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.192][LOG]使用键鼠操作！
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 47
+[20:52:15.488][LOG]Keyboard:/Keyboard
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.489][LOG]使用键鼠操作！
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 47
+[20:52:15.489][LOG]Keyboard:/Keyboard
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.489][LOG]使用键鼠操作！
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 47
+[20:52:15.622][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.623][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.626][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.627][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.631][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.632][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.634][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.635][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.639][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.639][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.642][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.642][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.646][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.646][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.649][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.650][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.660][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.661][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.665][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.665][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.669][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.669][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.672][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.672][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.676][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.676][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.680][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.681][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.684][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.685][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.695][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.695][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.698][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.699][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.702][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.703][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.707][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.707][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.710][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.710][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.714][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.714][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.718][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.718][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.729][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.729][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.736][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.737][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.740][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.741][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.745][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.745][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.749][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.749][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.752][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.752][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.763][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.764][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.768][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.768][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.771][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.772][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.774][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.775][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.778][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.779][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.782][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.784][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.787][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.787][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.797][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.797][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.835][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.835][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.848][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.848][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.880][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:15.880][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:16.109][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:16.110][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:16.119][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:16.119][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:16.123][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:16.123][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:16.219][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:16.220][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:16.312][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:16.312][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:16.685][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:16.685][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:16.793][LOG]Keyboard:/Keyboard
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:16.793][LOG]使用键鼠操作！
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 47
+[20:52:16.793][LOG]Keyboard:/Keyboard
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:16.794][LOG]使用键鼠操作！
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 47
+[20:52:18.228][LOG]Keyboard:/Keyboard
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:18.229][LOG]使用键鼠操作！
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 47
+[20:52:18.229][LOG]Keyboard:/Keyboard
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:18.229][LOG]使用键鼠操作！
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 47
+[20:52:19.061][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:19.061][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:19.332][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:19.332][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:19.503][LOG]Keyboard:/Keyboard
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:19.505][LOG]使用键鼠操作！
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 47
+[20:52:19.505][LOG]Keyboard:/Keyboard
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:19.505][LOG]使用键鼠操作！
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 47
+[20:52:20.167][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:20.168][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:20.171][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:20.171][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:20.175][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:20.175][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:20.180][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:20.180][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:20.183][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:20.183][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:20.187][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:20.188][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:20.192][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:20.192][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:20.405][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:20.405][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:20.409][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:20.409][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:20.413][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:20.414][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:20.417][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:20.417][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:20.421][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:20.421][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:20.424][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:20.424][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:20.427][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:20.428][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:20.441][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:20.441][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:20.449][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:20.450][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:20.453][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:20.453][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:20.491][LOG]Keyboard:/Keyboard
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:20.491][LOG]使用键鼠操作！
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 47
+[20:52:20.491][LOG]Keyboard:/Keyboard
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:20.491][LOG]使用键鼠操作！
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 47
+[20:52:21.362][LOG]Keyboard:/Keyboard
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:21.362][LOG]使用键鼠操作！
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 47
+[20:52:21.363][LOG]Keyboard:/Keyboard
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:21.363][LOG]使用键鼠操作！
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 47
+[20:52:21.530][LOG]Keyboard:/Keyboard
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:21.530][LOG]使用键鼠操作！
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 47
+[20:52:21.531][LOG]Keyboard:/Keyboard
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:21.531][LOG]使用键鼠操作！
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 47
+[20:52:21.951][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:21.953][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:21.955][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:21.955][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:21.959][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:21.959][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:21.963][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:21.963][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:21.974][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:21.974][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:21.977][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:21.977][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:21.981][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:21.981][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:21.985][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:21.986][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:22.176][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:22.178][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:22.180][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:22.181][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:22.184][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:22.184][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:22.188][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:22.188][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:22.192][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:22.192][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:22.196][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:22.196][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:22.200][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:22.200][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:22.203][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:22.204][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:22.214][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:22.214][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:22.218][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:22.218][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:22.612][LOG]Keyboard:/Keyboard
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:22.613][LOG]使用键鼠操作！
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 47
+[20:52:22.613][LOG]Keyboard:/Keyboard
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:22.613][LOG]使用键鼠操作！
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 47
+[20:52:22.744][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:22.745][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:22.877][LOG]Keyboard:/Keyboard
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:22.878][LOG]使用键鼠操作！
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 47
+[20:52:22.878][LOG]Keyboard:/Keyboard
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:22.878][LOG]使用键鼠操作！
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 47
+[20:52:23.039][LOG]Keyboard:/Keyboard
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:23.041][LOG]使用键鼠操作！
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 47
+[20:52:23.041][LOG]Keyboard:/Keyboard
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:23.042][LOG]使用键鼠操作！
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 47
+[20:52:24.235][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.238][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.241][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.245][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.249][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.252][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.255][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.258][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.269][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.272][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.275][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.279][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.282][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.286][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.288][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.292][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.302][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.306][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.309][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.312][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.316][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.319][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.323][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.330][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.341][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.344][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.349][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.352][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.355][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.359][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.362][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.365][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.375][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.379][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.383][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.559][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.563][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.566][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.569][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.580][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.583][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.586][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.591][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.593][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.597][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.600][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.603][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.614][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.617][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.620][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.624][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.627][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.631][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.634][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.637][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.647][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.651][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.654][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.657][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.660][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.664][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.667][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.671][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.680][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.685][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.687][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.691][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.695][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.698][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.701][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.703][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.715][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.718][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.722][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.725][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.732][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.736][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.739][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.751][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.755][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.758][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.762][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.766][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.773][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.778][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.792][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.798][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.803][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.806][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.810][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.829][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.890][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.893][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.897][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.901][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.903][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.907][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.912][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.918][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.929][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.937][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.941][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:24.948][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.042][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.044][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.047][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.051][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.054][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.065][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.071][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.078][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.081][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.086][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.093][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.104][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.110][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.116][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.121][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.126][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.132][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.147][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.153][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.159][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.164][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.167][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.178][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.184][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.188][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.192][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.195][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.199][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.202][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.212][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.217][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.220][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.226][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.229][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.233][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.236][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.248][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.251][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.254][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.257][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.260][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.265][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.268][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.270][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.284][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.288][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.291][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.294][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.298][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.301][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.305][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.314][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.317][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.321][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.327][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.331][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.334][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.341][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.351][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.354][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.358][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.361][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.364][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.367][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.371][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.373][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.383][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.387][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.391][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.394][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.397][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.401][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.404][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.407][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.418][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.425][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.429][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.432][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.435][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.438][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.442][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.453][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.458][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.470][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.486][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.497][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.500][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.510][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.520][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.524][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.536][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+[20:52:25.656][LOG]Mouse:/Mouse
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 43
+
+=== Log End ===

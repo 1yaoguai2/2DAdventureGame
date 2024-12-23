@@ -1,6 +1,8 @@
 using System;
 using Cinemachine;
 using UnityEngine;
+using UnityEngine.InputSystem;
+using UnityEngine.InputSystem.DualShock;
 
 public class Sign : MonoBehaviour
 {
@@ -8,6 +10,9 @@ public class Sign : MonoBehaviour
     private Animator _animator;
     private bool _canPress;
     private Vector3 _spriteDir;
+    private InputSystem_Actions _playerInput;
+    private IInteractable _currentItem;
+
     private bool CanPress
     {
         get => _canPress;
@@ -25,6 +30,43 @@ public class Sign : MonoBehaviour
     {
         _signSprite = transform.GetChild(0).gameObject;
         _animator = _signSprite.GetComponent<Animator>();
+        _playerInput = new InputSystem_Actions();
+        _playerInput.Enable();
+    }
+
+    private void OnEnable()
+    {
+        //InputSystem.onActionChange += OnActionChange;
+        _playerInput.GamePlay.Conifrm.started += OnConfirm;
+    }
+
+    /// <summary>
+    /// 输入方式
+    /// </summary>
+    /// <param name="obj"></param>
+    /// <param name="actionChange"></param>
+    private void OnActionChange(object obj, InputActionChange actionChange)
+    {
+        if (actionChange == InputActionChange.ActionStarted)
+        {
+            var d = ((InputAction)obj).activeControl.device;
+            CustomLogger.Log(d.ToString());
+            switch (d.device)
+            {
+                case Keyboard:
+                    CustomLogger.Log("使用键鼠操作！");
+                    break;
+                case DualShockGamepad:
+                    CustomLogger.Log("使用手柄操作！");
+                    break;
+            }
+        }
+    }
+
+    private void OnConfirm(InputAction.CallbackContext obj)
+    {
+        CustomLogger.Log("触发按钮按下");
+        _currentItem?.TriggerAction();
     }
 
     private void FixedUpdate()
@@ -38,6 +80,7 @@ public class Sign : MonoBehaviour
         if (other.CompareTag("Interactable"))
         {
             CanPress = true;
+            _currentItem = other.GetComponent<IInteractable>();
         }
     }
 
@@ -46,6 +89,7 @@ public class Sign : MonoBehaviour
         if (other.CompareTag("Interactable"))
         {
             CanPress = false;
+            _currentItem = null;
         }
     }
 }

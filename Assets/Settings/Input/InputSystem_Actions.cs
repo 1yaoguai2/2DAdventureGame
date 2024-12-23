@@ -107,6 +107,15 @@ public partial class @InputSystem_Actions: IInputActionCollection2, IDisposable
                     ""processors"": """",
                     ""interactions"": """",
                     ""initialStateCheck"": false
+                },
+                {
+                    ""name"": ""Conifrm"",
+                    ""type"": ""Button"",
+                    ""id"": ""ab48273d-7024-4b00-b251-59dd5457c5fa"",
+                    ""expectedControlType"": """",
+                    ""processors"": """",
+                    ""interactions"": """",
+                    ""initialStateCheck"": false
                 }
             ],
             ""bindings"": [
@@ -503,6 +512,28 @@ public partial class @InputSystem_Actions: IInputActionCollection2, IDisposable
                     ""processors"": """",
                     ""groups"": ""Keyboard&Mouse"",
                     ""action"": ""Crouch"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""6810bb39-fda5-4012-af4f-6c56f254bbe9"",
+                    ""path"": ""<Keyboard>/e"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": "";Keyboard&Mouse"",
+                    ""action"": ""Conifrm"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""13964190-3ddc-4eb8-a598-d5a537595425"",
+                    ""path"": ""<Gamepad>/buttonEast"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": "";Gamepad"",
+                    ""action"": ""Conifrm"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
                 }
@@ -1099,6 +1130,7 @@ public partial class @InputSystem_Actions: IInputActionCollection2, IDisposable
         m_GamePlay_Previous = m_GamePlay.FindAction("Previous", throwIfNotFound: true);
         m_GamePlay_Next = m_GamePlay.FindAction("Next", throwIfNotFound: true);
         m_GamePlay_Sprint = m_GamePlay.FindAction("Sprint", throwIfNotFound: true);
+        m_GamePlay_Conifrm = m_GamePlay.FindAction("Conifrm", throwIfNotFound: true);
         // UI
         m_UI = asset.FindActionMap("UI", throwIfNotFound: true);
         m_UI_Navigate = m_UI.FindAction("Navigate", throwIfNotFound: true);
@@ -1187,6 +1219,7 @@ public partial class @InputSystem_Actions: IInputActionCollection2, IDisposable
     private readonly InputAction m_GamePlay_Previous;
     private readonly InputAction m_GamePlay_Next;
     private readonly InputAction m_GamePlay_Sprint;
+    private readonly InputAction m_GamePlay_Conifrm;
     public struct GamePlayActions
     {
         private @InputSystem_Actions m_Wrapper;
@@ -1200,6 +1233,7 @@ public partial class @InputSystem_Actions: IInputActionCollection2, IDisposable
         public InputAction @Previous => m_Wrapper.m_GamePlay_Previous;
         public InputAction @Next => m_Wrapper.m_GamePlay_Next;
         public InputAction @Sprint => m_Wrapper.m_GamePlay_Sprint;
+        public InputAction @Conifrm => m_Wrapper.m_GamePlay_Conifrm;
         public InputActionMap Get() { return m_Wrapper.m_GamePlay; }
         public void Enable() { Get().Enable(); }
         public void Disable() { Get().Disable(); }
@@ -1236,6 +1270,9 @@ public partial class @InputSystem_Actions: IInputActionCollection2, IDisposable
             @Sprint.started += instance.OnSprint;
             @Sprint.performed += instance.OnSprint;
             @Sprint.canceled += instance.OnSprint;
+            @Conifrm.started += instance.OnConifrm;
+            @Conifrm.performed += instance.OnConifrm;
+            @Conifrm.canceled += instance.OnConifrm;
         }
 
         private void UnregisterCallbacks(IGamePlayActions instance)
@@ -1267,6 +1304,9 @@ public partial class @InputSystem_Actions: IInputActionCollection2, IDisposable
             @Sprint.started -= instance.OnSprint;
             @Sprint.performed -= instance.OnSprint;
             @Sprint.canceled -= instance.OnSprint;
+            @Conifrm.started -= instance.OnConifrm;
+            @Conifrm.performed -= instance.OnConifrm;
+            @Conifrm.canceled -= instance.OnConifrm;
         }
 
         public void RemoveCallbacks(IGamePlayActions instance)
@@ -1458,6 +1498,7 @@ public partial class @InputSystem_Actions: IInputActionCollection2, IDisposable
         void OnPrevious(InputAction.CallbackContext context);
         void OnNext(InputAction.CallbackContext context);
         void OnSprint(InputAction.CallbackContext context);
+        void OnConifrm(InputAction.CallbackContext context);
     }
     public interface IUIActions
     {

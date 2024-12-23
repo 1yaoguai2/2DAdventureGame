@@ -1,0 +1,432 @@
+
+=== Log Start at 2024-12-23 21:08:54 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 1.0
+=====================================
+
+[21:08:34.388][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 67
+[21:08:35.114][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 67
+[21:08:35.379][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 67
+[21:08:35.629][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 67
+[21:08:35.847][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 67
+[21:08:36.047][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 67
+[21:08:36.231][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 67
+[21:08:37.163][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 67
+[21:08:37.370][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 67
+[21:08:37.572][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 67
+[21:08:37.745][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 67
+[21:08:39.755][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 67
+[21:08:39.954][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 67
+[21:08:40.138][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 67
+[21:08:40.347][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 67
+[21:08:40.549][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 67
+[21:08:40.746][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 67
+[21:08:40.968][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 67
+[21:08:41.875][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 67
+[21:08:42.077][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 67
+[21:08:42.282][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 67
+[21:08:42.465][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 67
+[21:08:43.458][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 67
+[21:08:43.673][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 67
+[21:08:43.866][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 67
+[21:08:44.765][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 67
+[21:08:44.943][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 67
+[21:08:45.104][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 67
+[21:08:45.914][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 67
+[21:08:46.093][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 67
+[21:08:46.262][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 67
+[21:08:47.327][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 67
+[21:08:47.517][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 67
+[21:08:47.696][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 67
+[21:08:47.884][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 67
+[21:08:48.059][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 67
+[21:08:48.222][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 67
+
+=== Log End ===
+
+=== Log Start at 2024-12-23 21:12:56 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 1.0
+=====================================
+
+[21:12:12.887][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[21:12:13.666][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[21:12:13.986][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[21:12:25.948][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[21:12:26.256][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[21:12:26.457][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[21:12:29.466][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[21:12:31.406][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+
+=== Log End ===
+
+=== Log Start at 2024-12-23 21:13:37 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 1.0
+=====================================
+
+[21:13:18.348][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[21:13:18.353][LOG]Open Chest!
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Chest.cs
+Line: 8
+[21:13:19.557][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[21:13:19.557][LOG]Open Chest!
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Chest.cs
+Line: 8
+[21:13:21.178][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[21:13:23.154][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[21:13:25.538][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[21:13:25.538][LOG]Open Chest!
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Chest.cs
+Line: 8
+[21:13:26.767][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[21:13:28.278][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[21:13:28.278][LOG]Open Chest!
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Chest.cs
+Line: 8
+[21:13:29.246][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[21:13:33.145][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+
+=== Log End ===
+
+=== Log Start at 2024-12-23 21:15:06 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 1.0
+=====================================
+
+[21:14:42.080][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[21:14:52.216][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[21:14:52.217][LOG]Open Chest!
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Chest.cs
+Line: 8
+[21:14:53.429][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[21:14:53.916][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[21:14:54.787][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+
+=== Log End ===
+
+=== Log Start at 2024-12-23 21:16:54 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 1.0
+=====================================
+
+[21:16:50.573][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[21:16:50.915][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[21:16:51.184][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+
+=== Log End ===
+
+=== Log Start at 2024-12-23 21:27:02 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 1.0
+=====================================
+
+[21:26:55.374][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[21:26:55.378][LOG]Open Chest!
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Chest.cs
+Line: 17
+[21:26:57.157][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[21:26:57.158][LOG]Open Chest!
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Chest.cs
+Line: 17
+[21:26:58.171][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[21:26:58.172][LOG]Open Chest!
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Chest.cs
+Line: 17
+[21:26:59.544][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[21:26:59.544][LOG]Open Chest!
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Chest.cs
+Line: 17
+[21:27:00.302][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[21:27:00.303][LOG]Open Chest!
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Chest.cs
+Line: 17
+[21:27:00.982][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[21:27:00.982][LOG]Open Chest!
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Chest.cs
+Line: 17
+
+=== Log End ===
+
+=== Log Start at 2024-12-23 21:29:00 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 1.0
+=====================================
+
+[21:28:48.162][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[21:28:49.718][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[21:28:53.409][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[21:28:53.409][LOG]Open Chest!
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Chest.cs
+Line: 21
+[21:28:58.591][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[21:28:58.765][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[21:28:59.561][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[21:28:59.845][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[21:29:00.018][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+
+=== Log End ===
+
+=== Log Start at 2024-12-23 21:34:13 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 1.0
+=====================================
+
+[21:34:05.947][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[21:34:05.951][LOG]Open Chest!
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Chest.cs
+Line: 21
+[21:34:08.142][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[21:34:08.675][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[21:34:08.891][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[21:34:09.072][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[21:34:12.483][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+
+=== Log End ===
+
+=== Log Start at 2024-12-23 21:36:28 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 1.0
+=====================================
+
+[21:36:20.900][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[21:36:20.905][LOG]Open Chest!
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Chest.cs
+Line: 21
+[21:36:22.533][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+
+=== Log End ===
+
+=== Log Start at 2024-12-23 21:49:16 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 1.0
+=====================================
+
+[21:49:09.034][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[21:49:11.728][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[21:49:11.728][LOG]Open Chest!
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Chest.cs
+Line: 21
+[21:49:12.793][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[21:49:13.704][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+
+=== Log End ===
+
+=== Log Start at 2024-12-23 21:50:41 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 1.0
+=====================================
+
+[21:50:38.724][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[21:50:38.729][LOG]Open Chest!
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Chest.cs
+Line: 21
+[21:50:40.267][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+
+=== Log End ===
+
+=== Log Start at 2024-12-23 21:51:28 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 1.0
+=====================================
+
+[21:51:25.934][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[21:51:25.939][LOG]Open Chest!
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Chest.cs
+Line: 21
+
+=== Log End ===
