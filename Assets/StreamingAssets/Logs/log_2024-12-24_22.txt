@@ -1,0 +1,33 @@
+
+=== Log Start at 2024-12-24 22:01:07 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 1.0
+=====================================
+
+[22:00:44.865][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[22:00:44.870][LOG]Open Chest!
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Chest.cs
+Line: 21
+[22:00:46.565][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[22:00:46.565][LOG]传送
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Transtion\TeleportPoint.cs
+Line: 10
+[22:00:46.566][LOG]请求切换场景
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Transtion\SceneLoad.cs
+Line: 38
+[22:00:54.426][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[22:00:54.426][LOG]传送
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Transtion\TeleportPoint.cs
+Line: 10
+[22:00:54.426][LOG]请求切换场景
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Transtion\SceneLoad.cs
+Line: 38
+
+=== Log End ===

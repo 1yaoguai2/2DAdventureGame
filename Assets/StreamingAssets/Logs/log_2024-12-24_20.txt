@@ -1,0 +1,78 @@
+
+=== Log Start at 2024-12-24 20:31:11 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 1.0
+=====================================
+
+[20:30:55.874][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[20:30:59.122][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[20:31:06.024][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[20:31:06.025][LOG]Open Chest!
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Chest.cs
+Line: 21
+
+=== Log End ===
+
+=== Log Start at 2024-12-24 20:41:56 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 1.0
+=====================================
+
+[20:41:49.799][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[20:41:49.803][LOG]Open Chest!
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Chest.cs
+Line: 21
+[20:41:51.215][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[20:41:52.720][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[20:41:53.026][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[20:41:53.236][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[20:41:53.418][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+
+=== Log End ===
+
+=== Log Start at 2024-12-24 20:45:12 ===
+Device: MS-7D94 (Micro-Star International Co., Ltd.)
+OS: Windows 11  (10.0.22621) 64bit
+Game Version: 1.0
+=====================================
+
+[20:44:37.466][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[20:44:45.826][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[20:44:45.827][LOG]Open Chest!
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Chest.cs
+Line: 21
+[20:44:47.693][LOG]触发按钮按下
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Player\Sign.cs
+Line: 68
+[20:44:47.693][LOG]传送
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Transtion\TeleportPoint.cs
+Line: 10
+[20:44:47.694][LOG]请求切换场景
+File: D:\Study\Unity_Projects\2DAdventureGame\Assets\Scripts\Transtion\SceneLoad.cs
+Line: 36
+
+=== Log End ===
