@@ -67,6 +67,8 @@ public class Sign : MonoBehaviour
     {
         CustomLogger.Log("触发按钮按下");
         _currentItem?.TriggerAction();
+        //防止二次触发，只有再次进入触发区域，才能获得对象
+        _currentItem = null;
     }
 
     private void FixedUpdate()
