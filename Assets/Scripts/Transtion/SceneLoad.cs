@@ -9,6 +9,7 @@ public class SceneLoad : MonoBehaviour
 {
     [Header("加载场景事件监听")] public SceneLoadEventSO sceneLoadEvent;
     [Header("加载场景完成事件广播")] public VoidEventSO onSceneLoadEndEvent;
+    [Header("加载场景淡入淡出事件广播")] public VoidEventSO onFadeImageEvent;
     public GameSceneSO firstScene;
     private GameSceneSO currentLoadedLevel;
     private GameSceneSO loadScene;
@@ -50,7 +51,8 @@ public class SceneLoad : MonoBehaviour
         var asyncOperation = loadScene.sceneReference.LoadSceneAsync(LoadSceneMode.Additive, false);
         if (isFade)
         {
-            //TODO:逐渐黑暗
+            //TO-DO:逐渐黑暗
+            onFadeImageEvent.RaiseEvent();
             yield return new WaitForSeconds(fadeTime);
         }
 
@@ -67,15 +69,20 @@ public class SceneLoad : MonoBehaviour
         if (currentLoadedLevel is not null)
             currentLoadedLevel.sceneReference.UnLoadScene();
         //激活场景
-        asyncOperation.Result.ActivateAsync();
+        var setActiveResult = asyncOperation.Result.ActivateAsync();
+        if (!setActiveResult.isDone)
+        {
+            yield return null;
+        }
         //跟新当前场景
         currentLoadedLevel = loadScene;
-        //场景切换完毕事件广播
-        onSceneLoadEndEvent.RaiseEvent();
         if (isFade)
         {
-            //TODO:逐渐变亮
+            //TO-DO:逐渐变亮
+            onFadeImageEvent.RaiseEvent();
             yield return new WaitForSeconds(fadeTime);
         }
+        //场景切换完毕事件广播
+        onSceneLoadEndEvent.RaiseEvent();
     }
 }

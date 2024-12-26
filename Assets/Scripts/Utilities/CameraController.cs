@@ -52,14 +52,13 @@ public class CameraController : MonoBehaviour
     {
         GetNewCameraBounds();
     }
-
-    //TODO:新场景新边界
+    
     /// <summary>
     /// 获取新边界，并清除缓存
     /// </summary>
     private void GetNewCameraBounds()
     {
-        //BUG:查找边界出错
+        //B-UG:查找边界出错
         var bounds = GameObject.FindGameObjectWithTag("Bounds");
         // 跨场景查找物体
         //var bounds = FindGameObjectWithTagInScenes("Bounds");
@@ -72,6 +71,7 @@ public class CameraController : MonoBehaviour
         var polygon = _confiner2D.m_BoundingShape2D as PolygonCollider2D;
         if (polygon)
             polygon.points = bounds.GetComponent<PolygonCollider2D>().points;
+        //_confiner2D.m_BoundingShape2D = bounds.GetComponent<PolygonCollider2D>();
         _confiner2D.InvalidateCache();
     }
 

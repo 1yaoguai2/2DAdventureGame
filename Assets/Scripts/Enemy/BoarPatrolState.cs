@@ -12,7 +12,7 @@ public class BoarPatrolState : BaseEnemyState
     // ReSharper disable Unity.PerformanceAnalysis
     public override void LogicUpdate()
     {
-        //TODO:发现player，追击
+        //TO-DO:发现player，追击
         if (currentEmeny.FoundPlayer())
         {
             currentEmeny.CutState(NPCState.Chase);
