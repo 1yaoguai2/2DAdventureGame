@@ -10,13 +10,15 @@ public class SceneLoad : MonoBehaviour
     [Header("加载场景事件监听")] public SceneLoadEventSO sceneLoadEvent;
     [Header("加载场景完成事件广播")] public VoidEventSO onSceneLoadEndEvent;
     [Header("加载场景淡入淡出事件广播")] public VoidEventSO onFadeImageEvent;
+    [Header("新游戏")] public VoidEventSO onNewGameEvent;
     public GameSceneSO firstScene;
+    public GameSceneSO leveScene;
     private GameSceneSO currentLoadedLevel;
     private GameSceneSO loadScene;
     private bool isFade;
     public float fadeTime;
 
-    private void Awake()
+    private void Start()
     {
         OnLoadSceneRequestEvent(firstScene, false);
     }
@@ -24,11 +26,18 @@ public class SceneLoad : MonoBehaviour
     private void OnEnable()
     {
         sceneLoadEvent.LoadRequestEvent += OnLoadSceneRequestEvent;
+        onNewGameEvent.OnEventRaised += OnNewGame;
     }
 
     private void OnDisable()
     {
         sceneLoadEvent.LoadRequestEvent -= OnLoadSceneRequestEvent;
+        onNewGameEvent.OnEventRaised -= OnNewGame;
+    }
+
+    private void OnNewGame()
+    {
+        OnLoadSceneRequestEvent(leveScene, true);
     }
 
     private void OnLoadSceneRequestEvent(GameSceneSO scene, bool fadeScene)

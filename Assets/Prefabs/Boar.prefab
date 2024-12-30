@@ -243,6 +243,7 @@ MonoBehaviour:
   invulnerableDuration: 1.1
   invulnerableCounter: 0
   isInvulnerable: 0
+  onNewSceneEvent: {fileID: 11400000, guid: ff9cd1890027ec548be392521e7515a3, type: 2}
   OnTakeDamageEvent:
     m_PersistentCalls:
       m_Calls:

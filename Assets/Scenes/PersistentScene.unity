@@ -1501,8 +1501,10 @@ MonoBehaviour:
   sceneLoadEvent: {fileID: 11400000, guid: 6e7134ff8670eac43b7f12ac77901b7e, type: 2}
   onSceneLoadEndEvent: {fileID: 11400000, guid: 7e28202fa8dc45c4aabb846b4f1f2ff9, type: 2}
   onFadeImageEvent: {fileID: 11400000, guid: ef2419742047f8346966b3eb6e7af23f, type: 2}
+  onNewGameEvent: {fileID: 11400000, guid: ff9cd1890027ec548be392521e7515a3, type: 2}
   firstScene: {fileID: 11400000, guid: 6c14fe08c84b9b445aa533d69df3d575, type: 2}
-  fadeTime: 1
+  leveScene: {fileID: 11400000, guid: 581223a07e88e964cbddd09f3d82433c, type: 2}
+  fadeTime: 0.6
 --- !u!1 &2035935985
 GameObject:
   m_ObjectHideFlags: 0
@@ -1544,7 +1546,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2763836856111438807, guid: 951b36ea931c9ea4bbe0edd87fd7397c, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.02
+      value: -4.07
       objectReference: {fileID: 0}
     - target: {fileID: 2763836856111438807, guid: 951b36ea931c9ea4bbe0edd87fd7397c, type: 3}
       propertyPath: m_LocalPosition.y
@@ -1586,10 +1588,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
-    - target: {fileID: 6217752117106002896, guid: 951b36ea931c9ea4bbe0edd87fd7397c, type: 3}
-      propertyPath: m_TagString
-      value: Player
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1617,7 +1615,7 @@ PrefabInstance:
       objectReference: {fileID: 11400000, guid: 7e28202fa8dc45c4aabb846b4f1f2ff9, type: 2}
     - target: {fileID: 7480292456020152651, guid: dae58c01c2f56164b9c965cfb799c879, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.02
+      value: -4.0699997
       objectReference: {fileID: 0}
     - target: {fileID: 7480292456020152651, guid: dae58c01c2f56164b9c965cfb799c879, type: 3}
       propertyPath: m_LocalPosition.y
