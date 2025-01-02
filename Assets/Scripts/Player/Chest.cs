@@ -1,9 +1,10 @@
-using System;
 using UnityEngine;
+using UnityEngine.Events;
 
 public class Chest : MonoBehaviour, IInteractable
 {
-    private GameObject closeChest;
+    [Header("触发事件")] public UnityEvent onChestEvent;
+    [Header("参数")] private GameObject closeChest;
     private GameObject openChest;
     private bool isOpen;
 
@@ -22,6 +23,7 @@ public class Chest : MonoBehaviour, IInteractable
             closeChest.SetActive(false);
             openChest.SetActive(true);
             transform.GetComponent<BoxCollider2D>().enabled = false;
+            onChestEvent?.Invoke();
         }
     }
 }
