@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.Serialization;
 
 public class PlayerAnimtions : MonoBehaviour
 {
@@ -6,6 +7,7 @@ public class PlayerAnimtions : MonoBehaviour
     private Rigidbody2D _rb;
     private PhysicsCheck _physicsCheck;
     private PlayerController _playerController;
+    
     private void Awake()
     {
         _animator = GetComponent<Animator>();
@@ -13,6 +15,8 @@ public class PlayerAnimtions : MonoBehaviour
         _physicsCheck = GetComponent<PhysicsCheck>();
         _playerController = GetComponent<PlayerController>();
     }
+
+
 
     private void FixedUpdate()
     {

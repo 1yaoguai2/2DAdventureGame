@@ -9,7 +9,8 @@ public class DataManager : MonoBehaviour
     public static DataManager Instance;
 
 
-    [Header("保存事件")] public VoidEventSO saveGameEvent;
+    [Header("保存事件")] public VoidEventSO saveGameEventSo;
+    public VoidEventSO restGameEventSo;
     private List<ISaveable> saveableList = new List<ISaveable>();
 
     private SaveData _saveData;
@@ -22,21 +23,23 @@ public class DataManager : MonoBehaviour
 
     private void OnEnable()
     {
-        saveGameEvent.OnEventRaised += Save;
+        saveGameEventSo.OnEventRaised += Save;
+        restGameEventSo.OnEventRaised += Load;
     }
 
     private void OnDisable()
     {
-        saveGameEvent.OnEventRaised -= Save;
+        saveGameEventSo.OnEventRaised -= Save;
+        restGameEventSo.OnEventRaised -= Load;
     }
 
-    private void Update()
-    {
-        if (Keyboard.current.pKey.wasPressedThisFrame)
-        {
-            Load();
-        }
-    }
+    // private void Update()
+    // {
+    //     if (Keyboard.current.pKey.wasPressedThisFrame)
+    //     {
+    //         Load();
+    //     }
+    // }
 
     public void RegisterSaveData(ISaveable saveable)
     {

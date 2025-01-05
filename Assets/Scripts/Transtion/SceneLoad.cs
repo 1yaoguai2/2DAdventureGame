@@ -13,6 +13,7 @@ public class SceneLoad : MonoBehaviour,ISaveable
     [Header("加载场景完成事件广播")] public VoidEventSO onSceneLoadEndEvent;
     [Header("加载场景淡入淡出事件广播")] public VoidEventSO onFadeImageEvent;
     [Header("新游戏")] public VoidEventSO onNewGameEvent;
+    public VoidEventSO loadSceneStartEvent;
     public GameSceneSO firstScene;
     public GameSceneSO leveScene;
     private GameSceneSO currentLoadedLevel;
@@ -21,17 +22,17 @@ public class SceneLoad : MonoBehaviour,ISaveable
     public float fadeTime;
 
 
-    private DataDefinition _dataDefinition;
-
-    public DataDefinition M_DataDefinition
-    {
-        get
-        {
-            if (_dataDefinition is null)
-                _dataDefinition = GetComponent<DataDefinition>();
-            return _dataDefinition;
-        }
-    }
+    // private DataDefinition _dataDefinition;
+    //
+    // public DataDefinition M_DataDefinition
+    // {
+    //     get
+    //     {
+    //         if (_dataDefinition is null)
+    //             _dataDefinition = GetComponent<DataDefinition>();
+    //         return _dataDefinition;
+    //     }
+    // }
     
     private void Start()
     {
@@ -83,6 +84,8 @@ public class SceneLoad : MonoBehaviour,ISaveable
             onFadeImageEvent.RaiseEvent();
             yield return new WaitForSeconds(fadeTime);
         }
+        //开启新场景
+        loadSceneStartEvent.RaiseEvent();
 
         //TO/DO:先加载再启用启用新场景
         // 等待加载完成

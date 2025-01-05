@@ -17,6 +17,10 @@ public class PlayerController : MonoBehaviour
     public bool isDeath;
     public bool isAttack;
 
+    [Header("监听事件")] public VoidEventSO restGameEventSo;
+
+    public VoidEventSO loadSceneStartEventSo;
+
     public UnityEvent playerAttackEvent;
 
     private void Awake()
@@ -29,12 +33,11 @@ public class PlayerController : MonoBehaviour
 
         //攻击
         _inputControl.GamePlay.Attack.started += PlayerAttack;
-    }
-
-    private void OnEnable()
-    {
+        restGameEventSo.OnEventRaised += RestGameEvent;
+        loadSceneStartEventSo.OnEventRaised += LoadSceneStartEvent;
         _inputControl.Enable();
     }
+
 
     private void OnDisable()
     {
@@ -107,6 +110,21 @@ public class PlayerController : MonoBehaviour
     {
         isDeath = true;
         _inputControl.GamePlay.Disable();
+    }
+
+    //重新开始
+    private void RestGameEvent()
+    {
+        _inputControl.GamePlay.Enable();
+    }
+
+    private void LoadSceneStartEvent()
+    {
+        isDeath = false;
+        _inputControl.GamePlay.Enable();
+        var _animator = transform.GetComponent<Animator>();
+        _animator.SetBool("isDeath", false);
+        _animator.SetFloat("speed", 1f);
     }
 
     #endregion
