@@ -7,7 +7,7 @@ public class FadeCanvasController : MonoBehaviour
 {
     public Image fadeImage;
     public VoidEventSO fadeEventSo;
-
+    
     private void OnEnable()
     {
         fadeEventSo.OnEventRaised += FadeMonth;
@@ -37,7 +37,7 @@ public class FadeCanvasController : MonoBehaviour
         var currenta = fadeImage.color;
         while (Math.Abs(currenta.a - targetInt) > 0.015f)
         {
-            currenta.a += isFade ? -0.01f : 0.01f;
+            currenta.a += isFade ? -0.01f : 0.02f;
             fadeImage.color = currenta;
             yield return null;
         }

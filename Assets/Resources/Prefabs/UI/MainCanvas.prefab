@@ -233,6 +233,7 @@ MonoBehaviour:
   healthFillGreenImage: {fileID: 8030950371672532384}
   healthFillRedImage: {fileID: 2727317048054725337}
   powerFillYellowImage: {fileID: 3883266974136486746}
+  onNewGameEvent: {fileID: 11400000, guid: ff9cd1890027ec548be392521e7515a3, type: 2}
 --- !u!1 &5096893763547066407
 GameObject:
   m_ObjectHideFlags: 0

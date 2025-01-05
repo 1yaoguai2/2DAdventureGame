@@ -1,11 +1,13 @@
 using System;
 using System.Collections;
+using System.Linq;
 using UnityEngine;
 using UnityEngine.AddressableAssets;
 using UnityEngine.SceneManagement;
 using UnityEngine.Serialization;
 
-public class SceneLoad : MonoBehaviour
+[RequireComponent(typeof(DataDefinition))]
+public class SceneLoad : MonoBehaviour,ISaveable
 {
     [Header("加载场景事件监听")] public SceneLoadEventSO sceneLoadEvent;
     [Header("加载场景完成事件广播")] public VoidEventSO onSceneLoadEndEvent;
@@ -18,6 +20,19 @@ public class SceneLoad : MonoBehaviour
     private bool isFade;
     public float fadeTime;
 
+
+    private DataDefinition _dataDefinition;
+
+    public DataDefinition M_DataDefinition
+    {
+        get
+        {
+            if (_dataDefinition is null)
+                _dataDefinition = GetComponent<DataDefinition>();
+            return _dataDefinition;
+        }
+    }
+    
     private void Start()
     {
         OnLoadSceneRequestEvent(firstScene, false);
@@ -27,12 +42,16 @@ public class SceneLoad : MonoBehaviour
     {
         sceneLoadEvent.LoadRequestEvent += OnLoadSceneRequestEvent;
         onNewGameEvent.OnEventRaised += OnNewGame;
+        ISaveable saveable = this;
+        saveable.RegisterSaveData();
     }
 
     private void OnDisable()
     {
         sceneLoadEvent.LoadRequestEvent -= OnLoadSceneRequestEvent;
         onNewGameEvent.OnEventRaised -= OnNewGame;
+        ISaveable saveable = this;
+        saveable.UnRegisterSaveData();
     }
 
     private void OnNewGame()
@@ -93,5 +112,19 @@ public class SceneLoad : MonoBehaviour
         }
         //场景切换完毕事件广播
         onSceneLoadEndEvent.RaiseEvent();
+    }
+
+    public void GetSaveData(SaveData data)
+    {
+        data.SaveCurrentScene(currentLoadedLevel);
+    }
+
+    public void LoadData(SaveData data)
+    {
+        if (!string.IsNullOrEmpty(data.sceneToSave))
+        {
+            loadScene = data.GetSavedScene();
+            OnLoadSceneRequestEvent(loadScene,true);
+        }
     }
 }

@@ -1,8 +1,10 @@
 using System;
+using UnityEditor.SceneManagement;
 using UnityEngine;
 using UnityEngine.Events;
 
-public class Character : MonoBehaviour
+[RequireComponent(typeof(DataDefinition))]
+public class Character : MonoBehaviour, ISaveable
 {
     [Header("基本属性")] public float maxHealth;
 
@@ -35,13 +37,33 @@ public class Character : MonoBehaviour
         }
     }
 
+    private DataDefinition _m_DataDefinition;
+
+    public DataDefinition m_DataDefinition
+    {
+        get
+        {
+            if (_m_DataDefinition is null)
+                _m_DataDefinition = GetComponent<DataDefinition>();
+            return _m_DataDefinition;
+        }
+    }
+
     public UnityEvent<Transform> OnTakeDamageEvent;
     public UnityEvent OnPlayerDeathEvent;
     public UnityEvent<Character> OnHealthChanged;
 
-    private void Start()
+    private void OnEnable()
     {
         CurrentHealth = maxHealth;
+        ISaveable saveable = this;
+        saveable.RegisterSaveData();
+    }
+
+    private void OnDisable()
+    {
+        ISaveable saveable = this;
+        saveable.UnRegisterSaveData();
     }
 
     private void FixedUpdate()
@@ -91,6 +113,31 @@ public class Character : MonoBehaviour
             CurrentHealth = 0;
             OnHealthChanged?.Invoke(this);
             OnPlayerDeathEvent?.Invoke();
+        }
+    }
+
+    public void GetSaveData(SaveData data)
+    {
+        if (data.characterPosDict.ContainsKey(m_DataDefinition.ID))
+        {
+            data.characterPosDict[m_DataDefinition.ID] = transform.position;
+        }
+        else
+        {
+            data.characterPosDict.Add(m_DataDefinition.ID, transform.position);
+            data.floatDataDict.Add(m_DataDefinition.ID+"health",CurrentHealth);
+        }
+    }
+
+    public void LoadData(SaveData data)
+    {
+        if (data.characterPosDict.TryGetValue(m_DataDefinition.ID, out var value))
+        {
+            transform.position = value;
+            this.CurrentHealth = data.floatDataDict[m_DataDefinition.ID + "health"];
+            
+            //跟新UI
+            OnHealthChanged?.Invoke(this);
         }
     }
 }

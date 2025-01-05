@@ -10,6 +10,7 @@ public class MainCanvasController : BasePanel
     public Image healthFillRedImage;
     public Image powerFillYellowImage;
 
+    
     /// <summary>
     /// 血量变化
     /// </summary>
