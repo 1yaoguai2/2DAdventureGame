@@ -1,5 +1,4 @@
 using System;
-using UnityEditor.SceneManagement;
 using UnityEngine;
 using UnityEngine.Events;
 
@@ -37,15 +36,15 @@ public class Character : MonoBehaviour, ISaveable
         }
     }
 
-    private DataDefinition _m_DataDefinition;
+    private DataDefinition _dataDefinition;
 
-    public DataDefinition m_DataDefinition
+    public DataDefinition M_DataDefinition
     {
         get
         {
-            if (_m_DataDefinition is null)
-                _m_DataDefinition = GetComponent<DataDefinition>();
-            return _m_DataDefinition;
+            if (_dataDefinition is null)
+                _dataDefinition = GetComponent<DataDefinition>();
+            return _dataDefinition;
         }
     }
 
@@ -118,23 +117,23 @@ public class Character : MonoBehaviour, ISaveable
 
     public void GetSaveData(SaveData data)
     {
-        if (data.characterPosDict.ContainsKey(m_DataDefinition.ID))
+        if (data.characterPosDict.ContainsKey(M_DataDefinition.ID))
         {
-            data.characterPosDict[m_DataDefinition.ID] = transform.position;
+            data.characterPosDict[M_DataDefinition.ID] = transform.position;
         }
         else
         {
-            data.characterPosDict.Add(m_DataDefinition.ID, transform.position);
-            data.floatDataDict.Add(m_DataDefinition.ID+"health",CurrentHealth);
+            data.characterPosDict.Add(M_DataDefinition.ID, transform.position);
+            data.floatDataDict.Add(M_DataDefinition.ID+"health",CurrentHealth);
         }
     }
 
     public void LoadData(SaveData data)
     {
-        if (data.characterPosDict.TryGetValue(m_DataDefinition.ID, out var value))
+        if (data.characterPosDict.TryGetValue(M_DataDefinition.ID, out var value))
         {
             transform.position = value;
-            this.CurrentHealth = data.floatDataDict[m_DataDefinition.ID + "health"];
+            this.CurrentHealth = data.floatDataDict[M_DataDefinition.ID + "health"];
             
             //跟新UI
             OnHealthChanged?.Invoke(this);

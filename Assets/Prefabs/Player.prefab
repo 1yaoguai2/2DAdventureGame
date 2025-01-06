@@ -523,6 +523,8 @@ MonoBehaviour:
   isHurt: 0
   isDeath: 0
   isAttack: 0
+  restGameEventSo: {fileID: 0}
+  loadSceneStartEventSo: {fileID: 0}
   playerAttackEvent:
     m_PersistentCalls:
       m_Calls:
