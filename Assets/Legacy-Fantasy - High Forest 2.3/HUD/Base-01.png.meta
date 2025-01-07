@@ -336,6 +336,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1660,7 +1673,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Base-01_60
+      name: Setting
       rect:
         serializedVersion: 2
         x: 50
@@ -2519,7 +2532,6 @@ TextureImporter:
       Base-01_58: 3146429280096349671
       Base-01_59: -5249656256635897205
       Base-01_6: -7670953985595583545
-      Base-01_60: -5127562975274684739
       Base-01_61: -5445198044735268253
       Base-01_62: 9152485452174549025
       Base-01_63: -6699065159252305155
@@ -2560,6 +2572,7 @@ TextureImporter:
       ConifmUI2: -1496272520410376707
       ConifrmUI: 8160045219647390997
       JumpUI: -5169995934343891413
+      Setting: -5127562975274684739
       Stick: 3948115927587391712
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0

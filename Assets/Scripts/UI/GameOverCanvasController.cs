@@ -38,7 +38,7 @@ public class GameOverCanvasController : MonoBehaviour
         gameRestEventSo.OnEventRaised -= GameRestEvent;
     }
 
-    public void LoadMenuSceneEvent()
+    private void LoadMenuSceneEvent()
     {
         loadMenuSceneEventSo.RaiseLoadRequestEvent(menuSceneSo,true);
         bg.SetActive(false);
