@@ -69,6 +69,8 @@ public class AllCanvasController : MonoBehaviour
     /// </summary>
     private void EscapeDownOpenOrClosePanel()
     {
+        #if UNITY_ANDROID
+        #else
         if (Input.GetKeyDown(KeyCode.Escape))
         {
             bool isCloseLevelPanel = false;
@@ -120,6 +122,7 @@ public class AllCanvasController : MonoBehaviour
                 //});
             }
         }
+#endif
     }
 
     /// <summary>
